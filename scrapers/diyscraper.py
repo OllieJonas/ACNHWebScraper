@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 import schemas
+import util
 import re
 
 urls = {
@@ -15,12 +16,15 @@ urls = {
 
 
 def scrape(key):
+    print("Performing " + key + " scrape...")
     response = requests.get(urls.get(key))
     rep_text = response.text
     response.close()
     soup = BeautifulSoup(rep_text, 'html.parser')
 
     tables = soup.find_all("table", {"class": "sortable"})
+
+    items = []
 
     for tr in tables[0].find_all("tr")[1:]:
         children = tr.find_all("td")
@@ -29,7 +33,13 @@ def scrape(key):
         image_link = children[1].a['href']
         materials = materials_from_str(strip(children[2].text))
         size = size_from_url(children[3].a['href'])
-        source = strip(children[4].text)
+        source = [x for x in children[4].text.split("\n") if len(x) > 0]
+        price = strip_bells(children[5].text)
+
+        recipe_item = False
+
+        if children[6]:
+            recipe_item = is_recipe_item(children[6].text)
 
         item = {
             "name": name,
@@ -37,14 +47,41 @@ def scrape(key):
             "imageLink": image_link,
             "materials": materials,
             "size": size,
-            "source": source
+            "source": source,
+            "sellPrice": price,
+            "recipeItem": recipe_item
         }
-        print(item)
-        pass
+        items.append(item)
+    return items
+
+
+def strip_bells(text):
+    return int(re.sub("[,\"]|[Bells][(each)]", "", text))
+
+
+def is_recipe_item(text):
+    return "✓" in text
 
 
 def materials_from_str(string):
-    return string
+    curr_amt = 0
+    curr_built = []
+    results = []
+    for char in string.replace("x", ""):
+        if char.isnumeric():
+            if len(curr_built) > 0:
+                results.append({
+                    "material": ''.join(map(str, curr_built)).strip(),
+                    "amount": curr_amt
+                })
+
+            curr_amt = int(char)
+            curr_built = []
+        else:
+            curr_built.append(char)
+
+    results.append({"material": ''.join(map(str, curr_built)).strip(), "amount": curr_amt})
+    return results
 
 
 def tool_type_from_name(string):
@@ -58,7 +95,3 @@ def size_from_url(param):
 def strip(string):
     return string.replace("\n", "").strip()
 
-
-if __name__ == "__main__":
-    print(scrape("housewares"))
-    print(materials_from_str("x5 tree branchx3 star fragment"))

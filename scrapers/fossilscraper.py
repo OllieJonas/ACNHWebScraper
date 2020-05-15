@@ -48,7 +48,7 @@ def scrape_multipart():
 
         info = re.sub("\n", "", child.text).strip().split("   ")
         if len(info) < 2:
-            if curr_name is not "":
+            if curr_name != "":
                 item = schemas.multipart_fossil(curr_name, curr_price, parts)
                 items.append(item)
             curr_name = info[0]
