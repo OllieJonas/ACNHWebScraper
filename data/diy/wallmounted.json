@@ -1,0 +1,1608 @@
+[
+  {
+    "name": "Bamboo wall decoration",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/ef/NH-Furniture-Bamboo_wall_decoration.png/revision/latest?cb=20200327083756",
+    "materials": [
+      {
+        "material": "bamboo piece",
+        "amount": 1
+      }
+    ],
+    "size": [
+      0.5,
+      1.0
+    ],
+    "source": [
+      "Jock island resident",
+      "Message in a bottle"
+    ],
+    "sellPrice": 160,
+    "recipeItem": false
+  },
+  {
+    "name": "Blue rose wreath",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/ea/NH-Blue_rose_wreath.png/revision/latest?cb=20200423194732",
+    "materials": [
+      {
+        "material": "",
+        "amount": 1
+      },
+      {
+        "material": "blue roses",
+        "amount": 0
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Any island resident"
+    ],
+    "sellPrice": 20000,
+    "recipeItem": false
+  },
+  {
+    "name": "Bone doorplate",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/61/NH-Furniture-Bone_doorplate.png/revision/latest?cb=20200326034639",
+    "materials": [
+      {
+        "material": "softwood",
+        "amount": 3
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Lazy island resident"
+    ],
+    "sellPrice": 360,
+    "recipeItem": false
+  },
+  {
+    "name": "Boomerang",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1c/NH-Furniture-Boomerang.png/revision/latest?cb=20200328162504",
+    "materials": [
+      {
+        "material": "hardwood",
+        "amount": 3
+      }
+    ],
+    "size": [
+      1.0,
+      0.5
+    ],
+    "source": [
+      "Lazy island resident"
+    ],
+    "sellPrice": 360,
+    "recipeItem": false
+  },
+  {
+    "name": "Bunny Day glowy garland",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/04/NH-Furniture-Bunny_Day_glowy_garland.png/revision/latest?cb=20200402000242",
+    "materials": [
+      {
+        "material": "earth egg",
+        "amount": 1
+      },
+      {
+        "material": "stone egg",
+        "amount": 1
+      },
+      {
+        "material": "leaf egg",
+        "amount": 1
+      },
+      {
+        "material": "wood egg",
+        "amount": 1
+      },
+      {
+        "material": "sky egg",
+        "amount": 1
+      },
+      {
+        "material": "water egg",
+        "amount": 1
+      }
+    ],
+    "size": [
+      2.0,
+      1.0
+    ],
+    "source": [
+      "Bunny Day"
+    ],
+    "sellPrice": 2400,
+    "recipeItem": false
+  },
+  {
+    "name": "Bunny Day wall clock",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/22/NH-Furniture-Bunny_Day_wall_clock.png/revision/latest?cb=20200402001048",
+    "materials": [
+      {
+        "material": "sky egg",
+        "amount": 3
+      }
+    ],
+    "size": [
+      1.0,
+      1.5
+    ],
+    "source": [
+      "Bunny Day"
+    ],
+    "sellPrice": 1200,
+    "recipeItem": false
+  },
+  {
+    "name": "Bunny Day wreath",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/ca/NH-Furniture-Bunny_Day_wreath.png/revision/latest?cb=20200403142914",
+    "materials": [
+      {
+        "material": "earth egg",
+        "amount": 1
+      },
+      {
+        "material": "stone egg",
+        "amount": 1
+      },
+      {
+        "material": "leaf egg",
+        "amount": 1
+      },
+      {
+        "material": "wood egg",
+        "amount": 1
+      },
+      {
+        "material": "sky egg",
+        "amount": 1
+      },
+      {
+        "material": "water egg",
+        "amount": 1
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Bunny Day"
+    ],
+    "sellPrice": 2400,
+    "recipeItem": false
+  },
+  {
+    "name": "Cherry lamp",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/12/NH-Furniture-Cherry_lamp.png/revision/latest?cb=20200326044022",
+    "materials": [
+      {
+        "material": "",
+        "amount": 1
+      },
+      {
+        "material": "clay",
+        "amount": 2
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Tom Nook after receiving first three housing kits, if the native fruit is cherries",
+      "Peppy island resident",
+      "Message in a bottle"
+    ],
+    "sellPrice": 2400,
+    "recipeItem": false
+  },
+  {
+    "name": "Cherry-blossom clock",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/71/NH-Furniture-Cherry-blossom_clock.png/revision/latest?cb=20200329082912",
+    "materials": [
+      {
+        "material": "cherry-blossom petal",
+        "amount": 5
+      },
+      {
+        "material": "iron nugget",
+        "amount": 1
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Balloon"
+    ],
+    "sellPrice": 2750,
+    "recipeItem": false
+  },
+  {
+    "name": "Chic cosmos wreath",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0a/NH-Chic_cosmos_wreath.png/revision/latest?cb=20200423194727",
+    "materials": [
+      {
+        "material": "",
+        "amount": 1
+      },
+      {
+        "material": "black cosmos",
+        "amount": 0
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Any island resident"
+    ],
+    "sellPrice": 4800,
+    "recipeItem": false
+  },
+  {
+    "name": "Chic windflower wreath",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/05/NH-Chic_windflower_wreath.png/revision/latest?cb=20200423194721",
+    "materials": [
+      {
+        "material": "",
+        "amount": 1
+      },
+      {
+        "material": "purple windflowers",
+        "amount": 0
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Any island resident"
+    ],
+    "sellPrice": 4800,
+    "recipeItem": false
+  },
+  {
+    "name": "Coconut wall planter",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/3b/NH-Furniture-Coconut_wall_planter.png/revision/latest?cb=20200408051043",
+    "materials": [
+      {
+        "material": "coconut",
+        "amount": 1
+      },
+      {
+        "material": "clump of weeds",
+        "amount": 5
+      }
+    ],
+    "size": [
+      1.0,
+      1.5
+    ],
+    "source": [
+      "Snooty island resident"
+    ],
+    "sellPrice": 600,
+    "recipeItem": false
+  },
+  {
+    "name": "Cool hyacinth wreath",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/30/NH-Furniture-Cool_hyacinth_wreath.png/revision/latest?cb=20200423194716",
+    "materials": [
+      {
+        "material": "orange hyacinths",
+        "amount": 3
+      },
+      {
+        "material": "blue hyacinths",
+        "amount": 3
+      },
+      {
+        "material": "pink hyacinths",
+        "amount": 3
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Any island resident"
+    ],
+    "sellPrice": 1440,
+    "recipeItem": false
+  },
+  {
+    "name": "Cool pansy wreath",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/33/NH-Cool_pansy_wreath.png/revision/latest?cb=20200423194710",
+    "materials": [
+      {
+        "material": "",
+        "amount": 1
+      },
+      {
+        "material": "purple pansies",
+        "amount": 0
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Any island resident"
+    ],
+    "sellPrice": 4800,
+    "recipeItem": false
+  },
+  {
+    "name": "Cool windflower wreath",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1e/NH-Cool_windflower_wreath.png/revision/latest?cb=20200423194704",
+    "materials": [
+      {
+        "material": "blue windflowers",
+        "amount": 3
+      },
+      {
+        "material": "pink windflowers",
+        "amount": 3
+      },
+      {
+        "material": "white windflowers",
+        "amount": 3
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Any island resident"
+    ],
+    "sellPrice": 1200,
+    "recipeItem": false
+  },
+  {
+    "name": "Cosmos wreath",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/18/NH-Furniture-Cosmos_wreath.png/revision/latest?cb=20200327134912",
+    "materials": [
+      {
+        "material": "yellow cosmos",
+        "amount": 3
+      },
+      {
+        "material": "white cosmos",
+        "amount": 3
+      },
+      {
+        "material": "red cosmos",
+        "amount": 3
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Tom Nook after receiving first three housing kits, if the native flower is cosmos",
+      "Any island resident"
+    ],
+    "sellPrice": 720,
+    "recipeItem": false
+  },
+  {
+    "name": "Crest doorplate",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0d/NH-Furniture-Crest_doorplate.png/revision/latest?cb=20200326034617",
+    "materials": [
+      {
+        "material": "iron nugget",
+        "amount": 4
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Smug island resident",
+      "Message in a bottle"
+    ],
+    "sellPrice": 3000,
+    "recipeItem": false
+  },
+  {
+    "name": "Dark lily wreath",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/53/NH-DarkLilyWreath.png/revision/latest?cb=20200424200659",
+    "materials": [
+      {
+        "material": "",
+        "amount": 1
+      },
+      {
+        "material": "black lilies",
+        "amount": 0
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Any island resident"
+    ],
+    "sellPrice": 1600,
+    "recipeItem": false
+  },
+  {
+    "name": "Dark rose wreath",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/ad/NH-Dark_rose_wreath.png/revision/latest?cb=20200423194659",
+    "materials": [
+      {
+        "material": "black roses",
+        "amount": 3
+      },
+      {
+        "material": "purple roses",
+        "amount": 6
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Any island resident"
+    ],
+    "sellPrice": 4320,
+    "recipeItem": false
+  },
+  {
+    "name": "Dark tulip wreath",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/ef/NH-Dark_tulip_wreath.png/revision/latest?cb=20200423194653",
+    "materials": [
+      {
+        "material": "",
+        "amount": 1
+      },
+      {
+        "material": "black tulips",
+        "amount": 0
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Any island resident"
+    ],
+    "sellPrice": 1600,
+    "recipeItem": false
+  },
+  {
+    "name": "Deer decoration",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/90/NH-Furniture-Deer_decoration.png/revision/latest?cb=20200328211811",
+    "materials": [
+      {
+        "material": "softwood",
+        "amount": 8
+      }
+    ],
+    "size": [
+      1.0,
+      1.5
+    ],
+    "source": [
+      "Lazy island resident",
+      "Message in a bottle"
+    ],
+    "sellPrice": 960,
+    "recipeItem": false
+  },
+  {
+    "name": "Fancy mum wreath",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/82/NH-Fancy_mum_wreath.png/revision/latest?cb=20200424030144",
+    "materials": [
+      {
+        "material": "pink mums",
+        "amount": 3
+      },
+      {
+        "material": "purple mums",
+        "amount": 3
+      },
+      {
+        "material": "red mums",
+        "amount": 3
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Any island resident",
+      "Message in a bottle"
+    ],
+    "sellPrice": 1200,
+    "recipeItem": false
+  },
+  {
+    "name": "Fancy lily wreath",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/10/NH-Fancy_lily_wreath.png/revision/latest?cb=20200423194737",
+    "materials": [
+      {
+        "material": "orange lilies",
+        "amount": 3
+      },
+      {
+        "material": "pink lilies",
+        "amount": 3
+      },
+      {
+        "material": "yellow lilies",
+        "amount": 3
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Any island resident"
+    ],
+    "sellPrice": 1200,
+    "recipeItem": false
+  },
+  {
+    "name": "Fancy rose wreath",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/3a/NH-Fancy_rose_wreath.png/revision/latest?cb=20200330011844",
+    "materials": [
+      {
+        "material": "orange roses",
+        "amount": 3
+      },
+      {
+        "material": "pink roses",
+        "amount": 3
+      },
+      {
+        "material": "yellow roses",
+        "amount": 3
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Any island resident",
+      "Message in a bottle"
+    ],
+    "sellPrice": 1200,
+    "recipeItem": false
+  },
+  {
+    "name": "Floral swag",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c5/NH-Furniture-Floral_swag.png/revision/latest?cb=20200331225229",
+    "materials": [
+      {
+        "material": "",
+        "amount": 1
+      },
+      {
+        "material": "clump of weeds",
+        "amount": 0
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Normal island resident",
+      "Message in a bottle"
+    ],
+    "sellPrice": 200,
+    "recipeItem": false
+  },
+  {
+    "name": "Fossil doorplate",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a4/NH-Furniture-Fossil_doorplate.png/revision/latest?cb=20200326233607",
+    "materials": [
+      {
+        "material": "fossil",
+        "amount": 1
+      },
+      {
+        "material": "stone",
+        "amount": 2
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Jock island resident"
+    ],
+    "sellPrice": 500,
+    "recipeItem": false
+  },
+  {
+    "name": "Fruit wreath",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/81/NH-Furniture-Fruit_wreath.png/revision/latest?cb=20200423194648",
+    "materials": [
+      {
+        "material": "apple",
+        "amount": 2
+      },
+      {
+        "material": "pear",
+        "amount": 1
+      },
+      {
+        "material": "cherry",
+        "amount": 3
+      },
+      {
+        "material": "orange",
+        "amount": 3
+      },
+      {
+        "material": "peach",
+        "amount": 1
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Cranky island resident"
+    ],
+    "sellPrice": 2000,
+    "recipeItem": false
+  },
+  {
+    "name": "Gold rose wreath",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/85/NH-Gold_rose_wreath.png/revision/latest?cb=20200423194641",
+    "materials": [
+      {
+        "material": "",
+        "amount": 1
+      },
+      {
+        "material": "gold roses",
+        "amount": 0
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Any island resident"
+    ],
+    "sellPrice": 20000,
+    "recipeItem": false
+  },
+  {
+    "name": "Golden gears",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2f/NH-Furniture-Golden_gears.png/revision/latest?cb=20200329093520",
+    "materials": [
+      {
+        "material": "gold nugget",
+        "amount": 1
+      },
+      {
+        "material": "iron nugget",
+        "amount": 3
+      }
+    ],
+    "size": [
+      2.0,
+      1.0
+    ],
+    "source": [
+      "Smug island resident",
+      "Message in a bottle"
+    ],
+    "sellPrice": 11125,
+    "recipeItem": false
+  },
+  {
+    "name": "Hanging terrarium",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/29/NH-Furniture-Hanging_terrarium.png/revision/latest?cb=20200327134616",
+    "materials": [
+      {
+        "material": "",
+        "amount": 1
+      },
+      {
+        "material": "clump of weeds",
+        "amount": 2
+      },
+      {
+        "material": "iron nugget",
+        "amount": 4
+      }
+    ],
+    "size": [
+      1.0,
+      1.5
+    ],
+    "source": [
+      "Peppy island resident"
+    ],
+    "sellPrice": 3240,
+    "recipeItem": false
+  },
+  {
+    "name": "Hyacinth wreath",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/be/NH-Furniture-Hyacinth_wreath.png/revision/latest?cb=20200327134428",
+    "materials": [
+      {
+        "material": "white hyacinths",
+        "amount": 3
+      },
+      {
+        "material": "red hyacinths",
+        "amount": 3
+      },
+      {
+        "material": "yellow hyacinths",
+        "amount": 3
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Tom Nook after receiving first three housing kits, if the native flower is hyacinths",
+      "Any island resident",
+      "Message in a bottle"
+    ],
+    "sellPrice": 720,
+    "recipeItem": false
+  },
+  {
+    "name": "Iron doorplate",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/41/NH-Furniture-Iron_doorplate.png/revision/latest?cb=20200328211919",
+    "materials": [
+      {
+        "material": "iron nugget",
+        "amount": 2
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Uchi island resident",
+      "Balloon"
+    ],
+    "sellPrice": 1500,
+    "recipeItem": false
+  },
+  {
+    "name": "Iron wall lamp",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/bd/NH-Furniture-Iron_wall_lamp.png/revision/latest?cb=20200325181906",
+    "materials": [
+      {
+        "material": "iron nugget",
+        "amount": 4
+      },
+      {
+        "material": "clay",
+        "amount": 2
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Wildest Dreams DIY"
+    ],
+    "sellPrice": 3400,
+    "recipeItem": false
+  },
+  {
+    "name": "Iron wall rack",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f8/NH-Furniture-Iron_wall_rack.png/revision/latest?cb=20200401094903",
+    "materials": [
+      {
+        "material": "iron nugget",
+        "amount": 3
+      },
+      {
+        "material": "clay",
+        "amount": 1
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Smug island resident"
+    ],
+    "sellPrice": 2450,
+    "recipeItem": false
+  },
+  {
+    "name": "Ironwood clock",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/32/NH-Furniture-Ironwood_clock.png/revision/latest?cb=20200326044056",
+    "materials": [
+      {
+        "material": "wood",
+        "amount": 2
+      },
+      {
+        "material": "iron nugget",
+        "amount": 2
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Smug island resident",
+      "Message in a bottle"
+    ],
+    "sellPrice": 1740,
+    "recipeItem": false
+  },
+  {
+    "name": "Key holder",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6f/NH-Key_holder.png/revision/latest?cb=20200326044156",
+    "materials": [
+      {
+        "material": "wood",
+        "amount": 3
+      },
+      {
+        "material": "iron nugget",
+        "amount": 1
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Uchi island resident"
+    ],
+    "sellPrice": 1110,
+    "recipeItem": false
+  },
+  {
+    "name": "Leo sculpture",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/57/NH-Furniture-Leo_sculpture.png/revision/latest?cb=20200328083419",
+    "materials": [
+      {
+        "material": "star fragment",
+        "amount": 3
+      },
+      {
+        "material": "Leo fragment",
+        "amount": 2
+      },
+      {
+        "material": "gold nugget",
+        "amount": 2
+      },
+      {
+        "material": "stone",
+        "amount": 3
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Celeste"
+    ],
+    "sellPrice": 21975,
+    "recipeItem": false
+  },
+  {
+    "name": "Lily wreath",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c3/NH-Furniture-Lily_wreath.png/revision/latest?cb=20200326034538",
+    "materials": [
+      {
+        "material": "white lilies",
+        "amount": 3
+      },
+      {
+        "material": "red lilies",
+        "amount": 3
+      },
+      {
+        "material": "yellow lilies",
+        "amount": 3
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Tom Nook after receiving first three housing kits, if the native flower is lilies",
+      "Any island resident",
+      "Message in a bottle"
+    ],
+    "sellPrice": 720,
+    "recipeItem": false
+  },
+  {
+    "name": "Log wall-mounted clock",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d3/NH-Furniture-Log_wall-mounted_clock.png/revision/latest?cb=20200328002157",
+    "materials": [
+      {
+        "material": "hardwood",
+        "amount": 2
+      },
+      {
+        "material": "iron nugget",
+        "amount": 1
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Lazy island resident"
+    ],
+    "sellPrice": 990,
+    "recipeItem": false
+  },
+  {
+    "name": "Mum wreath",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c5/NH-Furniture-Mum_wreath.png/revision/latest?cb=20200327134941",
+    "materials": [
+      {
+        "material": "white mums",
+        "amount": 3
+      },
+      {
+        "material": "yellow mums",
+        "amount": 3
+      },
+      {
+        "material": "red mums",
+        "amount": 3
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Tom Nook after receiving first three housing kits, if the native flower is mums",
+      "Any island resident"
+    ],
+    "sellPrice": 720,
+    "recipeItem": false
+  },
+  {
+    "name": "Mushroom wreath",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/28/NH-Furniture-Mushroom_wreath.png/revision/latest?cb=20200423194553",
+    "materials": [
+      {
+        "material": "",
+        "amount": 1
+      },
+      {
+        "material": "round mushroom",
+        "amount": 1
+      },
+      {
+        "material": "skinny mushroom",
+        "amount": 1
+      },
+      {
+        "material": "flat mushroom",
+        "amount": 1
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [],
+    "sellPrice": 1500,
+    "recipeItem": false
+  },
+  {
+    "name": "Natural mum wreath",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/4f/NH-Natural_mum_wreath.png/revision/latest?cb=20200423194548",
+    "materials": [
+      {
+        "material": "",
+        "amount": 1
+      },
+      {
+        "material": "green mums",
+        "amount": 0
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Any island resident"
+    ],
+    "sellPrice": 4800,
+    "recipeItem": false
+  },
+  {
+    "name": "Orange wall-mounted clock",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/98/NH-Furniture-Orange_wall-mounted_clock.png/revision/latest?cb=20200326064426",
+    "materials": [
+      {
+        "material": "",
+        "amount": 1
+      },
+      {
+        "material": "wood",
+        "amount": 2
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Tom Nook after receiving first three housing kits, if the native fruit is oranges",
+      "Lazy island resident"
+    ],
+    "sellPrice": 2240,
+    "recipeItem": false
+  },
+  {
+    "name": "Ornament mobile",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c3/NH-Furniture-Ornament_mobile.png/revision/latest?cb=20200329100649",
+    "materials": [
+      {
+        "material": "red ornament",
+        "amount": 1
+      },
+      {
+        "material": "blue ornament",
+        "amount": 1
+      },
+      {
+        "material": "gold ornament",
+        "amount": 1
+      },
+      {
+        "material": "tree branch",
+        "amount": 4
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [],
+    "sellPrice": 340,
+    "recipeItem": false
+  },
+  {
+    "name": "Ornament wreath",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/56/NH-Ornament_wreath.png/revision/latest?cb=20200423194542",
+    "materials": [
+      {
+        "material": "blue ornament",
+        "amount": 6
+      },
+      {
+        "material": "gold ornament",
+        "amount": 2
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [],
+    "sellPrice": 800,
+    "recipeItem": false
+  },
+  {
+    "name": "Pansy wreath",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/89/NH-Furniture-Pansy_wreath.png/revision/latest?cb=20200326034346",
+    "materials": [
+      {
+        "material": "yellow pansies",
+        "amount": 3
+      },
+      {
+        "material": "white pansies",
+        "amount": 3
+      },
+      {
+        "material": "red pansies",
+        "amount": 3
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Tom Nook after receiving first three housing kits, if the native flower is pansies",
+      "Any island resident"
+    ],
+    "sellPrice": 720,
+    "recipeItem": false
+  },
+  {
+    "name": "Paw-print doorplate",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b5/NH-Furniture-Paw-print_doorplate.png/revision/latest?cb=20200329062624",
+    "materials": [
+      {
+        "material": "wood",
+        "amount": 3
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Peppy island resident"
+    ],
+    "sellPrice": 360,
+    "recipeItem": false
+  },
+  {
+    "name": "Potted ivy",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f2/NH-Potted_ivy.png/revision/latest?cb=20200325182118",
+    "materials": [
+      {
+        "material": "clump of weeds",
+        "amount": 5
+      },
+      {
+        "material": "clay",
+        "amount": 5
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Test Your DIY Skills"
+    ],
+    "sellPrice": 1100,
+    "recipeItem": false
+  },
+  {
+    "name": "Pretty cosmos wreath",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/cd/NH-Pretty_cosmos_wreath.png/revision/latest?cb=20200402001904",
+    "materials": [
+      {
+        "material": "orange cosmos",
+        "amount": 3
+      },
+      {
+        "material": "pink cosmos",
+        "amount": 3
+      },
+      {
+        "material": "red cosmos",
+        "amount": 3
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Any island resident"
+    ],
+    "sellPrice": 1200,
+    "recipeItem": false
+  },
+  {
+    "name": "Pretty tulip wreath",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/bb/NH-Pretty_tulip_wreath.png/revision/latest?cb=20200423194515",
+    "materials": [
+      {
+        "material": "orange tulips",
+        "amount": 3
+      },
+      {
+        "material": "pink tulips",
+        "amount": 3
+      },
+      {
+        "material": "purple tulips",
+        "amount": 3
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Any island resident"
+    ],
+    "sellPrice": 2400,
+    "recipeItem": false
+  },
+  {
+    "name": "Purple hyacinth wreath",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/50/NH-Purple_hyacinth_wreath.png/revision/latest?cb=20200423194537",
+    "materials": [
+      {
+        "material": "",
+        "amount": 1
+      },
+      {
+        "material": "purple hyacinths",
+        "amount": 0
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Any island resident"
+    ],
+    "sellPrice": 4800,
+    "recipeItem": false
+  },
+  {
+    "name": "Rose wreath",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6d/NH-Rose_wreath.png/revision/latest?cb=20200325182148",
+    "materials": [
+      {
+        "material": "red roses",
+        "amount": 3
+      },
+      {
+        "material": "white roses",
+        "amount": 3
+      },
+      {
+        "material": "yellow roses",
+        "amount": 3
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Tom Nook after receiving first three housing kits, if the native flower is roses",
+      "Any island resident"
+    ],
+    "sellPrice": 720,
+    "recipeItem": false
+  },
+  {
+    "name": "Sagittarius arrow",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/41/NH-Furniture-Sagittarius_arrow.png/revision/latest?cb=20200328084140",
+    "materials": [
+      {
+        "material": "star fragment",
+        "amount": 3
+      },
+      {
+        "material": "Sagittarius fragment",
+        "amount": 2
+      },
+      {
+        "material": "gold nugget",
+        "amount": 2
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Celeste"
+    ],
+    "sellPrice": 21750,
+    "recipeItem": false
+  },
+  {
+    "name": "Shell wreath",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/57/NH-Shell_wreath.png/revision/latest?cb=20200423194532",
+    "materials": [
+      {
+        "material": "summer shell",
+        "amount": 1
+      },
+      {
+        "material": "sea snail",
+        "amount": 1
+      },
+      {
+        "material": "sand dollar",
+        "amount": 1
+      },
+      {
+        "material": "coral",
+        "amount": 1
+      },
+      {
+        "material": "giant clam",
+        "amount": 1
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [],
+    "sellPrice": 4720,
+    "recipeItem": false
+  },
+  {
+    "name": "Snazzy pansy wreath",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/45/NH-Snazzy_pansy_wreath.png/revision/latest?cb=20200423194527",
+    "materials": [
+      {
+        "material": "yellow pansies",
+        "amount": 3
+      },
+      {
+        "material": "orange pansies",
+        "amount": 3
+      },
+      {
+        "material": "blue pansies",
+        "amount": 3
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Any island resident",
+      "Message in a bottle"
+    ],
+    "sellPrice": 1200,
+    "recipeItem": false
+  },
+  {
+    "name": "Snowflake wreath",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/ea/NH-Snowflake_wreath.png/revision/latest?cb=20200423194522",
+    "materials": [
+      {
+        "material": "snowflake",
+        "amount": 4
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [],
+    "sellPrice": 1600,
+    "recipeItem": false
+  },
+  {
+    "name": "Starry garland",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/16/NH-Furniture-Starry_garland.png/revision/latest?cb=20200329093557",
+    "materials": [
+      {
+        "material": "",
+        "amount": 1
+      },
+      {
+        "material": "star fragment",
+        "amount": 0
+      }
+    ],
+    "size": [
+      2.0,
+      1.0
+    ],
+    "source": [
+      "Celeste"
+    ],
+    "sellPrice": 5000,
+    "recipeItem": false
+  },
+  {
+    "name": "Timber doorplate",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5f/NH-Timber_doorplate.png/revision/latest?cb=20200330004946",
+    "materials": [
+      {
+        "material": "wood",
+        "amount": 2
+      },
+      {
+        "material": "pink roses",
+        "amount": 1
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Snooty island resident",
+      "Balloon"
+    ],
+    "sellPrice": 400,
+    "recipeItem": false
+  },
+  {
+    "name": "Tree's bounty mobile",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7e/NH-Furniture-Tree%27s_bounty_mobile.png/revision/latest?cb=20200329100702",
+    "materials": [
+      {
+        "material": "pine cone",
+        "amount": 2
+      },
+      {
+        "material": "acorn",
+        "amount": 3
+      },
+      {
+        "material": "tree branch",
+        "amount": 3
+      }
+    ],
+    "size": [
+      1.0,
+      1.5
+    ],
+    "source": [],
+    "sellPrice": 2030,
+    "recipeItem": false
+  },
+  {
+    "name": "Tree branch wreath",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e4/NH-Furniture-Tree_branch_wreath.png/revision/latest?cb=20200428002615",
+    "materials": [
+      {
+        "material": "",
+        "amount": 1
+      },
+      {
+        "material": "tree branch",
+        "amount": 0
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Uchi island resident"
+    ],
+    "sellPrice": 100,
+    "recipeItem": false
+  },
+  {
+    "name": "Tulip wreath",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/01/NH-Tulip_wreath.png/revision/latest?cb=20200329070158",
+    "materials": [
+      {
+        "material": "red tulips",
+        "amount": 3
+      },
+      {
+        "material": "yellow tulips",
+        "amount": 3
+      },
+      {
+        "material": "white tulips",
+        "amount": 3
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Tom Nook after receiving first three housing kits, if the native flower is tulips",
+      "Any island resident"
+    ],
+    "sellPrice": 720,
+    "recipeItem": false
+  },
+  {
+    "name": "Windflower wreath",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/3f/NH-Furniture-Windflower_wreath.png/revision/latest?cb=20200327134959",
+    "materials": [
+      {
+        "material": "red windflowers",
+        "amount": 3
+      },
+      {
+        "material": "white windflowers",
+        "amount": 3
+      },
+      {
+        "material": "orange windflowers",
+        "amount": 3
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Tom Nook after receiving first three housing kits, if the native flower is windflowers",
+      "Any island resident"
+    ],
+    "sellPrice": 720,
+    "recipeItem": false
+  },
+  {
+    "name": "Wooden-block wall clock",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1f/NH-Furniture-Wooden-block_wall_clock.png/revision/latest?cb=20200326063150",
+    "materials": [
+      {
+        "material": "wooden-block toy",
+        "amount": 1
+      },
+      {
+        "material": "softwood",
+        "amount": 2
+      },
+      {
+        "material": "iron nugget",
+        "amount": 1
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Peppy island resident",
+      "Message in a bottle"
+    ],
+    "sellPrice": 1350,
+    "recipeItem": false
+  },
+  {
+    "name": "Wooden-plank sign",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b2/NH-Furniture-Wooden-plank_sign.png/revision/latest?cb=20200424224145",
+    "materials": [
+      {
+        "material": "hardwood",
+        "amount": 5
+      }
+    ],
+    "size": [
+      2.0,
+      1.0
+    ],
+    "source": [
+      "Cranky island resident",
+      "Message in a bottle"
+    ],
+    "sellPrice": 600,
+    "recipeItem": false
+  }
+]

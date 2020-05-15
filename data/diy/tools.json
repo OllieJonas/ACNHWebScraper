@@ -1,0 +1,942 @@
+[
+  {
+    "name": "Flimsy axe",
+    "type": "Axe",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/13/NH-Flimsy_axe.png/revision/latest?cb=20200325181711",
+    "materials": [
+      {
+        "material": "tree branch",
+        "amount": 5
+      },
+      {
+        "material": "stone",
+        "amount": 1
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Tom Nook"
+    ],
+    "sellPrice": 200,
+    "recipeItem": false
+  },
+  {
+    "name": "Stone axe",
+    "type": "Axe",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/81/NH-Stone_axe.png/revision/latest?cb=20200325182307",
+    "materials": [
+      {
+        "material": "flimsy ae",
+        "amount": 1
+      },
+      {
+        "material": "wood",
+        "amount": 3
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Nook Stop (Pretty-Good Tools Recipes)"
+    ],
+    "sellPrice": 560,
+    "recipeItem": false
+  },
+  {
+    "name": "Axe",
+    "type": "Axe",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f8/NH-Axe.png/revision/latest?cb=20200325181451",
+    "materials": [
+      {
+        "material": "flimsy ae",
+        "amount": 1
+      },
+      {
+        "material": "wood",
+        "amount": 3
+      },
+      {
+        "material": "iron nugget",
+        "amount": 1
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Nook Stop (Pretty-Good Tools Recipes)"
+    ],
+    "sellPrice": 625,
+    "recipeItem": false
+  },
+  {
+    "name": "Golden axe",
+    "type": "Axe",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e5/NH-Golden_axe.png/revision/latest?cb=20200326052038",
+    "materials": [
+      {
+        "material": "ae",
+        "amount": 1
+      },
+      {
+        "material": "gold nugget",
+        "amount": 1
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Break axes 100 times"
+    ],
+    "sellPrice": 10655,
+    "recipeItem": false
+  },
+  {
+    "name": "Flimsy shovel",
+    "type": "Shovel",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/03/NH-Flimsy_shovel.png/revision/latest?cb=20200325181743",
+    "materials": [
+      {
+        "material": "hardwood",
+        "amount": 5
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Blathers"
+    ],
+    "sellPrice": 200,
+    "recipeItem": false
+  },
+  {
+    "name": "Shovel",
+    "type": "Shovel",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0f/NH-Shovel.png/revision/latest?cb=20200325182217",
+    "materials": [
+      {
+        "material": "flimsy shovel",
+        "amount": 1
+      },
+      {
+        "material": "iron nugget",
+        "amount": 1
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Nook Stop (Pretty-Good Tools Recipes)"
+    ],
+    "sellPrice": 600,
+    "recipeItem": false
+  },
+  {
+    "name": "Golden shovel",
+    "type": "Shovel",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/95/NH-Golden_shovel.png/revision/latest?cb=20200326052056",
+    "materials": [
+      {
+        "material": "shovel",
+        "amount": 1
+      },
+      {
+        "material": "gold nugget",
+        "amount": 1
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Assist Gulliver 30 times"
+    ],
+    "sellPrice": 10675,
+    "recipeItem": false
+  },
+  {
+    "name": "Flimsy fishing rod",
+    "type": "Fishing rod",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7f/NH-Flimsy_fishing_rod.png/revision/latest?cb=20200325181722",
+    "materials": [
+      {
+        "material": "tree branch",
+        "amount": 5
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Tom Nook (first DIY workshop)"
+    ],
+    "sellPrice": 100,
+    "recipeItem": false
+  },
+  {
+    "name": "Fishing rod",
+    "type": "Rod",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/52/NH-Fishing_rod.png/revision/latest?cb=20200325181659",
+    "materials": [
+      {
+        "material": "flimsy fishing rod",
+        "amount": 1
+      },
+      {
+        "material": "iron nugget",
+        "amount": 1
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Nook Stop (Pretty-Good Tools Recipes)"
+    ],
+    "sellPrice": 600,
+    "recipeItem": false
+  },
+  {
+    "name": "Golden rod",
+    "type": "Rod",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/33/NH-Golden_rod.png/revision/latest?cb=20200326052051",
+    "materials": [
+      {
+        "material": "fishing rod",
+        "amount": 1
+      },
+      {
+        "material": "gold nugget",
+        "amount": 1
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Complete the fish section of the critterpedia"
+    ],
+    "sellPrice": 10400,
+    "recipeItem": false
+  },
+  {
+    "name": "Flimsy net",
+    "type": "Net",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f5/NH-Flimsy_net.png/revision/latest?cb=20200419231134",
+    "materials": [
+      {
+        "material": "tree branch",
+        "amount": 5
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Tom Nook (first DIY workshop)"
+    ],
+    "sellPrice": 100,
+    "recipeItem": false
+  },
+  {
+    "name": "Net",
+    "type": "Net",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/47/NH-Net.png/revision/latest?cb=20200419231628",
+    "materials": [
+      {
+        "material": "flimsy net",
+        "amount": 1
+      },
+      {
+        "material": "iron nugget",
+        "amount": 1
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Nook Stop (Pretty-Good Tools Recipes)"
+    ],
+    "sellPrice": 600,
+    "recipeItem": false
+  },
+  {
+    "name": "Golden net",
+    "type": "Net",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/3c/NH-Golden_net.png/revision/latest?cb=20200326052046",
+    "materials": [
+      {
+        "material": "net",
+        "amount": 1
+      },
+      {
+        "material": "gold nugget",
+        "amount": 1
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Complete the bug section of the Critterpedia"
+    ],
+    "sellPrice": 10400,
+    "recipeItem": false
+  },
+  {
+    "name": "Flimsy watering can",
+    "type": "Watering can",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/70/NH-Flimsy_watering_can.png/revision/latest?cb=20200325181755",
+    "materials": [
+      {
+        "material": "softwood",
+        "amount": 5
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Tom Nook"
+    ],
+    "sellPrice": 200,
+    "recipeItem": false
+  },
+  {
+    "name": "Watering can",
+    "type": "Can",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/ad/NH-Watering_can.png/revision/latest?cb=20200325182421",
+    "materials": [
+      {
+        "material": "flimsy watering can",
+        "amount": 1
+      },
+      {
+        "material": "iron nugget",
+        "amount": 1
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Nook Stop (Pretty-Good Tools Recipes)"
+    ],
+    "sellPrice": 600,
+    "recipeItem": false
+  },
+  {
+    "name": "Golden watering can",
+    "type": "Watering can",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/cb/NH-Golden_watering_can.png/revision/latest?cb=20200326052107",
+    "materials": [
+      {
+        "material": "watering can",
+        "amount": 1
+      },
+      {
+        "material": "gold nugget",
+        "amount": 1
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Recipe obtained by Isabelle after attaining a 5-star town rating"
+    ],
+    "sellPrice": 10675,
+    "recipeItem": false
+  },
+  {
+    "name": "Slingshot",
+    "type": "Slingshot",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b2/NH-Slingshot.png/revision/latest?cb=20200325182238",
+    "materials": [
+      {
+        "material": "hardwood",
+        "amount": 5
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Timmy"
+    ],
+    "sellPrice": 225,
+    "recipeItem": false
+  },
+  {
+    "name": "Golden slingshot",
+    "type": "Slingshot",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/23/NH-Golden_slingshot.png/revision/latest?cb=20200326052101",
+    "materials": [
+      {
+        "material": "slingshot",
+        "amount": 1
+      },
+      {
+        "material": "gold nugget",
+        "amount": 1
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Recipe obtainable from a golden balloon after shooting down 300 balloons"
+    ],
+    "sellPrice": 10300,
+    "recipeItem": false
+  },
+  {
+    "name": "Vaulting pole",
+    "type": "Pole",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/34/NH-Vaulting_pole.png/revision/latest?cb=20200325174257",
+    "materials": [
+      {
+        "material": "softwood",
+        "amount": 5
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Blathers"
+    ],
+    "sellPrice": 600,
+    "recipeItem": false
+  },
+  {
+    "name": "Ladder",
+    "type": "Ladder",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2e/NH-Ladder.png/revision/latest?cb=20200325174130",
+    "materials": [
+      {
+        "material": "wood",
+        "amount": 4
+      },
+      {
+        "material": "hardwood",
+        "amount": 4
+      },
+      {
+        "material": "softwood",
+        "amount": 4
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Tom Nook after placing 2nd house plot"
+    ],
+    "sellPrice": 1440,
+    "recipeItem": false
+  },
+  {
+    "name": "Star wand",
+    "type": "Wand",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e2/NH-Star_wand.png/revision/latest?cb=20200326021218",
+    "materials": [
+      {
+        "material": "large star fragment",
+        "amount": 1
+      },
+      {
+        "material": "star fragment",
+        "amount": 3
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Recipe obtained from Celeste"
+    ],
+    "sellPrice": 6500,
+    "recipeItem": false
+  },
+  {
+    "name": "Bamboo wand",
+    "type": "Wand",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/95/NH-Bamboo_wand.png/revision/latest?cb=20200326021259",
+    "materials": [
+      {
+        "material": "young spring bamboo",
+        "amount": 6
+      },
+      {
+        "material": "star fragment",
+        "amount": 3
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "BalloonMessage in a bottle"
+    ],
+    "sellPrice": 3900,
+    "recipeItem": false
+  },
+  {
+    "name": "Mushroom wand",
+    "type": "Wand",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b3/NH-Mushroom_wand.png/revision/latest?cb=20200329091213",
+    "materials": [
+      {
+        "material": "skinny mushroom",
+        "amount": 3
+      },
+      {
+        "material": "star fragment",
+        "amount": 3
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Balloon"
+    ],
+    "sellPrice": 3300,
+    "recipeItem": false
+  },
+  {
+    "name": "Cherry-blossom wand",
+    "type": "Wand",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/67/NH-Cherry_blossom_wand.png/revision/latest?cb=20200330011041",
+    "materials": [
+      {
+        "material": "cherry-blossom petal",
+        "amount": 3
+      },
+      {
+        "material": "star fragment",
+        "amount": 3
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Balloon"
+    ],
+    "sellPrice": 2700,
+    "recipeItem": false
+  },
+  {
+    "name": "Bunny Day wand",
+    "type": "Day wand",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c5/NH-Bunny_Day_Wand.png/revision/latest?cb=20200417122326",
+    "materials": [
+      {
+        "material": "wobbling Zipper toy",
+        "amount": 1
+      },
+      {
+        "material": "star fragment",
+        "amount": 3
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Recipe obtained from Zipper during the Bunny Day event"
+    ],
+    "sellPrice": 11100,
+    "recipeItem": false
+  },
+  {
+    "name": "Cosmos wand",
+    "type": "Wand",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/09/NH-Cosmos_wand.png/revision/latest?cb=20200330011054",
+    "materials": [
+      {
+        "material": "white cosmos",
+        "amount": 1
+      },
+      {
+        "material": "star fragment",
+        "amount": 3
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Recipe obtained from Celeste"
+    ],
+    "sellPrice": 1580,
+    "recipeItem": false
+  },
+  {
+    "name": "Hyacinth wand",
+    "type": "Wand",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c9/NH-Hyacinth_wand.png/revision/latest?cb=20200330011106",
+    "materials": [
+      {
+        "material": "pink hyacinths",
+        "amount": 1
+      },
+      {
+        "material": "star fragment",
+        "amount": 3
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Recipe obtained from Celeste"
+    ],
+    "sellPrice": 1660,
+    "recipeItem": false
+  },
+  {
+    "name": "Lily wand",
+    "type": "Wand",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/34/NH-Lily_wand.png/revision/latest?cb=20200330011119",
+    "materials": [
+      {
+        "material": "white lilies",
+        "amount": 1
+      },
+      {
+        "material": "star fragment",
+        "amount": 3
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Recipe obtained from Celeste"
+    ],
+    "sellPrice": 1580,
+    "recipeItem": false
+  },
+  {
+    "name": "Mums wand",
+    "type": "Wand",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/81/NH-Mum_wand.png/revision/latest?cb=20200330011129",
+    "materials": [
+      {
+        "material": "yellow mums",
+        "amount": 1
+      },
+      {
+        "material": "star fragment",
+        "amount": 3
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Recipe obtained from Celeste"
+    ],
+    "sellPrice": 1580,
+    "recipeItem": false
+  },
+  {
+    "name": "Pansy Wand",
+    "type": "Wand",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0b/NH-Pansy_Wand.png/revision/latest?cb=20200417122622",
+    "materials": [
+      {
+        "material": "yellow pansies",
+        "amount": 1
+      },
+      {
+        "material": "star fragment",
+        "amount": 3
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Recipe obtained from Celeste"
+    ],
+    "sellPrice": 1580,
+    "recipeItem": false
+  },
+  {
+    "name": "Rose wand",
+    "type": "Wand",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/69/NH-Rose_wand.png/revision/latest?cb=20200330011539",
+    "materials": [
+      {
+        "material": "red roses",
+        "amount": 1
+      },
+      {
+        "material": "star fragment",
+        "amount": 3
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Recipe obtained from Celeste"
+    ],
+    "sellPrice": 1580,
+    "recipeItem": false
+  },
+  {
+    "name": "Tulip wand",
+    "type": "Wand",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/3d/NH-Tulip_wand.png/revision/latest?cb=20200330011142",
+    "materials": [
+      {
+        "material": "red tulips",
+        "amount": 1
+      },
+      {
+        "material": "star fragment",
+        "amount": 3
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Recipe obtained from CelesteBalloon"
+    ],
+    "sellPrice": 1580,
+    "recipeItem": false
+  },
+  {
+    "name": "Windflower wand",
+    "type": "Wand",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1a/NH-Windflower_wand.png/revision/latest?cb=20200330011152",
+    "materials": [
+      {
+        "material": "orange windflowers",
+        "amount": 1
+      },
+      {
+        "material": "star fragment",
+        "amount": 3
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Recipe obtained from Celeste"
+    ],
+    "sellPrice": 1580,
+    "recipeItem": false
+  },
+  {
+    "name": "Shell wand",
+    "type": "Wand",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/ee/NH-Shell_wand.png/revision/latest?cb=20200330011210",
+    "materials": [
+      {
+        "material": "summer shell",
+        "amount": 3
+      },
+      {
+        "material": "star fragment",
+        "amount": 3
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "*"
+    ],
+    "sellPrice": 5100,
+    "recipeItem": false
+  },
+  {
+    "name": "Ice wand",
+    "type": "Wand",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/4f/NH-Snowflake_wand.png/revision/latest?cb=20200330011218",
+    "materials": [
+      {
+        "material": "large snowflake",
+        "amount": 1
+      },
+      {
+        "material": "star fragment",
+        "amount": 3
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Recipe obtained from Snowboy"
+    ],
+    "sellPrice": 6500,
+    "recipeItem": false
+  },
+  {
+    "name": "Golden wand",
+    "type": "Wand",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c1/NH-Golden_wand.png/revision/latest?cb=20200330011233",
+    "materials": [
+      {
+        "material": "gold nugget",
+        "amount": 2
+      },
+      {
+        "material": "star fragment",
+        "amount": 3
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Recipe obtained from Celeste"
+    ],
+    "sellPrice": 20750,
+    "recipeItem": false
+  },
+  {
+    "name": "Wand",
+    "type": "Wand",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/ff/NH-Conductor_wand.png/revision/latest?cb=20200330011258",
+    "materials": [
+      {
+        "material": "star fragment",
+        "amount": 2
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Recipe obtained from Celeste"
+    ],
+    "sellPrice": 1000,
+    "recipeItem": false
+  },
+  {
+    "name": "Tree-branch wand",
+    "type": "Wand",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6c/NH-Wooden_wand.png/revision/latest?cb=20200330011309",
+    "materials": [
+      {
+        "material": "tree branch",
+        "amount": 5
+      },
+      {
+        "material": "star fragment",
+        "amount": 3
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Recipe obtained from Celeste"
+    ],
+    "sellPrice": 1550,
+    "recipeItem": false
+  },
+  {
+    "name": "Iron wand",
+    "type": "Wand",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2b/NH-Pipe_wand.png/revision/latest?cb=20200330011318",
+    "materials": [
+      {
+        "material": "iron nugget",
+        "amount": 3
+      },
+      {
+        "material": "star fragment",
+        "amount": 3
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Recipe obtained from Celeste"
+    ],
+    "sellPrice": 3750,
+    "recipeItem": false
+  },
+  {
+    "name": "Wedding wand",
+    "type": "Wand",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/af/NH-Tool-Wedding_wand.png/revision/latest?cb=20200503171549",
+    "materials": [
+      {
+        "material": "wedding flower stand",
+        "amount": 1
+      },
+      {
+        "material": "star fragment",
+        "amount": 3
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Wedding Season"
+    ],
+    "sellPrice": 3500,
+    "recipeItem": false
+  }
+]

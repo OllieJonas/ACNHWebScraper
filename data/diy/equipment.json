@@ -1,0 +1,1990 @@
+[
+  {
+    "name": "Acorn pochette",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e7/NH-Acorn_pochette.png/revision/latest?cb=20200329223009",
+    "materials": [
+      {
+        "material": "acorn",
+        "amount": 6
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Balloon during Autumn"
+    ],
+    "sellPrice": 2400,
+    "recipeItem": false
+  },
+  {
+    "name": "Apple dress",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2a/NH-Apple_dress.png/revision/latest?cb=20200329075814",
+    "materials": [
+      {
+        "material": "apple",
+        "amount": 8
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Uchi island resident"
+    ],
+    "sellPrice": 1600,
+    "recipeItem": false
+  },
+  {
+    "name": "Apple hat",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/bc/NH-Apple_hat.png/revision/latest?cb=20200329080627",
+    "materials": [
+      {
+        "material": "apple",
+        "amount": 5
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Uchi island resident"
+    ],
+    "sellPrice": 1000,
+    "recipeItem": false
+  },
+  {
+    "name": "Apple umbrella",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d9/NH-Apple_umbrella.png/revision/latest?cb=20200329075746",
+    "materials": [
+      {
+        "material": "apple",
+        "amount": 7
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Uchi island resident"
+    ],
+    "sellPrice": 1400,
+    "recipeItem": false
+  },
+  {
+    "name": "Armor shoes",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d3/NH-Iron_boots.png/revision/latest?cb=20200329223231",
+    "materials": [
+      {
+        "material": "iron nugget",
+        "amount": 4
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Cranky island resident"
+    ],
+    "sellPrice": 3000,
+    "recipeItem": false
+  },
+  {
+    "name": "Bamboo hat",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7a/NH-Bamboo_hat.png/revision/latest?cb=20200329073056",
+    "materials": [
+      {
+        "material": "",
+        "amount": 1
+      },
+      {
+        "material": "clump of weeds",
+        "amount": 0
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Cranky island resident"
+    ],
+    "sellPrice": 200,
+    "recipeItem": false
+  },
+  {
+    "name": "Basket pack",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/fe/NH-Basket_pack.png/revision/latest?cb=20200325181530",
+    "materials": [
+      {
+        "material": "young spring bamboo",
+        "amount": 6
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Balloon during Spring"
+    ],
+    "sellPrice": 2400,
+    "recipeItem": false
+  },
+  {
+    "name": "Blue rose crown",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/66/NH-Rose_crown_4.png/revision/latest?cb=20200329224352",
+    "materials": [
+      {
+        "material": "blue roses",
+        "amount": 6
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Any island resident"
+    ],
+    "sellPrice": 12000,
+    "recipeItem": false
+  },
+  {
+    "name": "Bunny Day bag",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a2/NH-Bunny_Day_bag.png/revision/latest?cb=20200402053856",
+    "materials": [
+      {
+        "material": "earth egg",
+        "amount": 1
+      },
+      {
+        "material": "stone egg",
+        "amount": 1
+      },
+      {
+        "material": "leaf egg",
+        "amount": 1
+      },
+      {
+        "material": "wood egg",
+        "amount": 1
+      },
+      {
+        "material": "sky egg",
+        "amount": 1
+      },
+      {
+        "material": "water egg",
+        "amount": 1
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Any island resident during Bunny Day"
+    ],
+    "sellPrice": 2400,
+    "recipeItem": false
+  },
+  {
+    "name": "Bunny Day crown",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1b/NH-Headwear-Bunny_day_crown.png/revision/latest?cb=20200411175745",
+    "materials": [
+      {
+        "material": "earth egg",
+        "amount": 1
+      },
+      {
+        "material": "stone egg",
+        "amount": 1
+      },
+      {
+        "material": "leaf egg",
+        "amount": 1
+      },
+      {
+        "material": "wood egg",
+        "amount": 1
+      },
+      {
+        "material": "sky egg",
+        "amount": 1
+      },
+      {
+        "material": "water egg",
+        "amount": 1
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Any island resident during Bunny Day"
+    ],
+    "sellPrice": 2400,
+    "recipeItem": false
+  },
+  {
+    "name": "Cherry-blossom pochette",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/61/NH-Cherry-blossom_pochette.png/revision/latest?cb=20200329080641",
+    "materials": [
+      {
+        "material": "cherry-blossom petal",
+        "amount": 6
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Balloon during Cherry Blossom Festival"
+    ],
+    "sellPrice": 2400,
+    "recipeItem": false
+  },
+  {
+    "name": "Cherry-blossom umbrella",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6e/NH-CHerry-blossom_umbrella.png/revision/latest?cb=20200329103215",
+    "materials": [
+      {
+        "material": "cherry-blossom petal",
+        "amount": 7
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Balloon during Cherry Blossom Festival"
+    ],
+    "sellPrice": 2800,
+    "recipeItem": false
+  },
+  {
+    "name": "Cherry dress",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1c/NH-Cherry_dress.png/revision/latest?cb=20200329075728",
+    "materials": [
+      {
+        "material": "cherry",
+        "amount": 8
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Peppy island resident",
+      "Message in a bottle"
+    ],
+    "sellPrice": 1600,
+    "recipeItem": false
+  },
+  {
+    "name": "Cherry hat",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/17/NH-Cherry_hat.png/revision/latest?cb=20200329080651",
+    "materials": [
+      {
+        "material": "cherry",
+        "amount": 5
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Peppy island resident"
+    ],
+    "sellPrice": 1000,
+    "recipeItem": false
+  },
+  {
+    "name": "Cherry umbrella",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e0/NH-Cherry_umbrella.png/revision/latest?cb=20200329075701",
+    "materials": [
+      {
+        "material": "cherry",
+        "amount": 7
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Peppy island resident"
+    ],
+    "sellPrice": 1400,
+    "recipeItem": false
+  },
+  {
+    "name": "Chic mum crown",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7d/NH-Mum_crown-variation2.png/revision/latest?cb=20200329223051",
+    "materials": [
+      {
+        "material": "purple mums",
+        "amount": 3
+      },
+      {
+        "material": "pink mums",
+        "amount": 3
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Any island resident"
+    ],
+    "sellPrice": 960,
+    "recipeItem": false
+  },
+  {
+    "name": "Chic rose crown",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7d/NH-Rose_crown_3.png/revision/latest?cb=20200329224423",
+    "materials": [
+      {
+        "material": "purple roses",
+        "amount": 3
+      },
+      {
+        "material": "black roses",
+        "amount": 3
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Any island resident"
+    ],
+    "sellPrice": 2880,
+    "recipeItem": false
+  },
+  {
+    "name": "Chic tulip crown",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/24/NH-Cute_tulip_crown.png/revision/latest?cb=20200329223102",
+    "materials": [
+      {
+        "material": "purple tulips",
+        "amount": 2
+      },
+      {
+        "material": "pink tulips",
+        "amount": 2
+      },
+      {
+        "material": "orange tulips",
+        "amount": 1
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Any island resident"
+    ],
+    "sellPrice": 1440,
+    "recipeItem": false
+  },
+  {
+    "name": "Cool pansy crown",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/61/NH-Cool_pansy_crown.png/revision/latest?cb=20200329072546",
+    "materials": [
+      {
+        "material": "orange pansies",
+        "amount": 3
+      },
+      {
+        "material": "blue pansies",
+        "amount": 3
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Any island resident"
+    ],
+    "sellPrice": 960,
+    "recipeItem": false
+  },
+  {
+    "name": "Cool hyacinth crown",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e8/NH-Hyacinth_crown_2.png/revision/latest?cb=20200329223445",
+    "materials": [
+      {
+        "material": "blue hyacinths",
+        "amount": 4
+      },
+      {
+        "material": "pink hyacinths",
+        "amount": 2
+      },
+      {
+        "material": "orange hyacinths",
+        "amount": 2
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Any island resident"
+    ],
+    "sellPrice": 1280,
+    "recipeItem": false
+  },
+  {
+    "name": "Cool windflower crown",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/cf/NH-windflower_crown_variation2.png/revision/latest?cb=20200329223115",
+    "materials": [
+      {
+        "material": "blue windflowers",
+        "amount": 3
+      },
+      {
+        "material": "pink windflowers",
+        "amount": 3
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Any island resident"
+    ],
+    "sellPrice": 960,
+    "recipeItem": false
+  },
+  {
+    "name": "Cosmos crown",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/97/NH-Cosmos_crown.png/revision/latest?cb=20200328032421",
+    "materials": [
+      {
+        "material": "red cosmos",
+        "amount": 2
+      },
+      {
+        "material": "yellow cosmos",
+        "amount": 2
+      },
+      {
+        "material": "white cosmos",
+        "amount": 3
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Any island resident",
+      "Message in a bottle"
+    ],
+    "sellPrice": 560,
+    "recipeItem": false
+  },
+  {
+    "name": "Cute lily crown",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9e/NH-Cute_lily_crown.png/revision/latest?cb=20200329072944",
+    "materials": [
+      {
+        "material": "red lilies",
+        "amount": 2
+      },
+      {
+        "material": "orange lilies",
+        "amount": 2
+      },
+      {
+        "material": "white lilies",
+        "amount": 2
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Any island resident"
+    ],
+    "sellPrice": 800,
+    "recipeItem": false
+  },
+  {
+    "name": "Cute rose crown",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/25/NH-Cute_rose_crown.png/revision/latest?cb=20200327140046",
+    "materials": [
+      {
+        "material": "pink roses",
+        "amount": 3
+      },
+      {
+        "material": "orange roses",
+        "amount": 3
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Any island resident",
+      "Message in a bottle"
+    ],
+    "sellPrice": 960,
+    "recipeItem": false
+  },
+  {
+    "name": "Dark cosmos crown",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c9/NH-Cosmos_crown_3.png/revision/latest?cb=20200329223409",
+    "materials": [
+      {
+        "material": "black cosmos",
+        "amount": 7
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Any island resident"
+    ],
+    "sellPrice": 3360,
+    "recipeItem": false
+  },
+  {
+    "name": "Dark lily crown",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/68/NH-Lily_crown_3.png/revision/latest?cb=20200329223433",
+    "materials": [
+      {
+        "material": "black lilies",
+        "amount": 6
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Any island resident"
+    ],
+    "sellPrice": 960,
+    "recipeItem": false
+  },
+  {
+    "name": "Dark tulip crown",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7c/NH-Tulip_crown3.png/revision/latest?cb=20200329223420",
+    "materials": [
+      {
+        "material": "black tulips",
+        "amount": 5
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Any island resident"
+    ],
+    "sellPrice": 800,
+    "recipeItem": false
+  },
+  {
+    "name": "Earth-egg outfit",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/94/NH-Earth-egg_outfit.png/revision/latest?cb=20200402000401",
+    "materials": [
+      {
+        "material": "earth egg",
+        "amount": 3
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Digging up earth eggs"
+    ],
+    "sellPrice": 1200,
+    "recipeItem": false
+  },
+  {
+    "name": "Earth-egg shell",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/07/NH-Earth-egg_shell.png/revision/latest?cb=20200402000413",
+    "materials": [
+      {
+        "material": "earth egg",
+        "amount": 2
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Digging up earth eggs"
+    ],
+    "sellPrice": 800,
+    "recipeItem": false
+  },
+  {
+    "name": "Earth-egg shoes",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/44/NH-Earth-egg_shoes.png/revision/latest?cb=20200402000424",
+    "materials": [
+      {
+        "material": "earth egg",
+        "amount": 2
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Digging up earth eggs"
+    ],
+    "sellPrice": 800,
+    "recipeItem": false
+  },
+  {
+    "name": "Egg party dress",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6d/NH-Dresses-Egg_party.png/revision/latest?cb=20200405010453",
+    "materials": [
+      {
+        "material": "earth egg",
+        "amount": 3
+      },
+      {
+        "material": "stone egg",
+        "amount": 3
+      },
+      {
+        "material": "leaf egg",
+        "amount": 3
+      },
+      {
+        "material": "wood egg",
+        "amount": 3
+      },
+      {
+        "material": "sky egg",
+        "amount": 3
+      },
+      {
+        "material": "water egg",
+        "amount": 3
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Unlock recipes for all six Bunny Day egg outfits"
+    ],
+    "sellPrice": 7200,
+    "recipeItem": false
+  },
+  {
+    "name": "Egg party hat",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/eb/NH-Headwear-Egg_party_hat.png/revision/latest?cb=20200411180909",
+    "materials": [
+      {
+        "material": "earth egg",
+        "amount": 2
+      },
+      {
+        "material": "stone egg",
+        "amount": 2
+      },
+      {
+        "material": "leaf egg",
+        "amount": 2
+      },
+      {
+        "material": "wood egg",
+        "amount": 2
+      },
+      {
+        "material": "sky egg",
+        "amount": 2
+      },
+      {
+        "material": "water egg",
+        "amount": 2
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Unlock recipes for all six Bunny Day egg outfits"
+    ],
+    "sellPrice": 4800,
+    "recipeItem": false
+  },
+  {
+    "name": "Gold armor",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e4/NH-Gold_armor.png/revision/latest?cb=20200329062758",
+    "materials": [
+      {
+        "material": "gold nugget",
+        "amount": 8
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Smug island resident",
+      "Message in a bottle"
+    ],
+    "sellPrice": 80000,
+    "recipeItem": false
+  },
+  {
+    "name": "Gold-armor shoes",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1e/NH-Gold_boots.png/revision/latest?cb=20200329223132",
+    "materials": [
+      {
+        "material": "gold nugget",
+        "amount": 4
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Smug island resident"
+    ],
+    "sellPrice": 40000,
+    "recipeItem": false
+  },
+  {
+    "name": "Gold helmet",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9b/NH-Gold_helmet.png/revision/latest?cb=20200329223143",
+    "materials": [
+      {
+        "material": "gold nugget",
+        "amount": 5
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Smug island resident"
+    ],
+    "sellPrice": 50000,
+    "recipeItem": false
+  },
+  {
+    "name": "Gold rose crown",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0b/NH-Gold_rose_crown.png/revision/latest?cb=20200329223151",
+    "materials": [
+      {
+        "material": "gold roses",
+        "amount": 6
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Any island resident"
+    ],
+    "sellPrice": 12000,
+    "recipeItem": false
+  },
+  {
+    "name": "Grass skirt",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5e/NH-Grass_skirt.png/revision/latest?cb=20200327133911",
+    "materials": [
+      {
+        "material": "clump of weeds",
+        "amount": 7
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Normal island resident"
+    ],
+    "sellPrice": 140,
+    "recipeItem": false
+  },
+  {
+    "name": "Green grass skirt",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/04/NH-Green_grass_skirt.png/revision/latest?cb=20200329223208",
+    "materials": [
+      {
+        "material": "clump of weeds",
+        "amount": 7
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Peppy island resident"
+    ],
+    "sellPrice": 140,
+    "recipeItem": false
+  },
+  {
+    "name": "Hyacinth crown",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b3/NH-Hyacinth_crown.png/revision/latest?cb=20200327135953",
+    "materials": [
+      {
+        "material": "red hyacinths",
+        "amount": 4
+      },
+      {
+        "material": "yellow hyacinths",
+        "amount": 2
+      },
+      {
+        "material": "white hyacinths",
+        "amount": 2
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Any island resident"
+    ],
+    "sellPrice": 640,
+    "recipeItem": false
+  },
+  {
+    "name": "Iron armor",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/aa/NH-Iron_armor.png/revision/latest?cb=20200329223218",
+    "materials": [
+      {
+        "material": "iron nugget",
+        "amount": 8
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Cranky island resident"
+    ],
+    "sellPrice": 6000,
+    "recipeItem": false
+  },
+  {
+    "name": "Knight's helmet",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/3a/NH-Iron_helmet.png/revision/latest?cb=20200329223242",
+    "materials": [
+      {
+        "material": "iron nugget",
+        "amount": 5
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Cranky island resident",
+      "Message in a bottle"
+    ],
+    "sellPrice": 3750,
+    "recipeItem": false
+  },
+  {
+    "name": "Knitted-grass backpack",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/49/NH-Grass-knitted_backpack.png/revision/latest?cb=20200329062844",
+    "materials": [
+      {
+        "material": "",
+        "amount": 2
+      },
+      {
+        "material": "clump of weeds",
+        "amount": 0
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Normal island resident"
+    ],
+    "sellPrice": 400,
+    "recipeItem": false
+  },
+  {
+    "name": "Leaf",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c5/NH-Leaf_accessory.png/revision/latest?cb=20200329223601",
+    "materials": [
+      {
+        "material": "clump of weeds",
+        "amount": 5
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Jock island resident"
+    ],
+    "sellPrice": 80,
+    "recipeItem": false
+  },
+  {
+    "name": "Leaf mask",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/12/NH-Leaf_mask.png/revision/latest?cb=20200328211026",
+    "materials": [
+      {
+        "material": "",
+        "amount": 1
+      },
+      {
+        "material": "clump of weeds",
+        "amount": 0
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Peppy island resident"
+    ],
+    "sellPrice": 200,
+    "recipeItem": false
+  },
+  {
+    "name": "Leaf umbrella",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/fd/NH-Leaf_umbrella.png/revision/latest?cb=20200325181931",
+    "materials": [
+      {
+        "material": "",
+        "amount": 1
+      },
+      {
+        "material": "clump of weeds",
+        "amount": 5
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Uchi island resident Message in a bottle"
+    ],
+    "sellPrice": 300,
+    "recipeItem": false
+  },
+  {
+    "name": "Leaf-egg outfit",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/bf/NH-Leaf-egg_outfit.png/revision/latest?cb=20200401234645",
+    "materials": [
+      {
+        "material": "leaf egg",
+        "amount": 3
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Gather leaf eggs by shaking trees"
+    ],
+    "sellPrice": 1200,
+    "recipeItem": false
+  },
+  {
+    "name": "Leaf-egg shell",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2b/NH-Leaf-egg_shell.png/revision/latest?cb=20200401234656",
+    "materials": [
+      {
+        "material": "leaf egg",
+        "amount": 2
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Gather leaf eggs by shaking trees"
+    ],
+    "sellPrice": 800,
+    "recipeItem": false
+  },
+  {
+    "name": "Leaf-egg shoes",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c1/NH-Leaf-egg_shoes.png/revision/latest?cb=20200401234714",
+    "materials": [
+      {
+        "material": "leaf egg",
+        "amount": 2
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Gather leaf eggs by shaking trees"
+    ],
+    "sellPrice": 800,
+    "recipeItem": false
+  },
+  {
+    "name": "Lily crown",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/cb/NH-Lily_crown.png/revision/latest?cb=20200330021842",
+    "materials": [
+      {
+        "material": "red lilies",
+        "amount": 2
+      },
+      {
+        "material": "yellow lilies",
+        "amount": 2
+      },
+      {
+        "material": "white lilies",
+        "amount": 2
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Any island resident"
+    ],
+    "sellPrice": 480,
+    "recipeItem": false
+  },
+  {
+    "name": "Log pack",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0d/NH-Log_pack.png/revision/latest?cb=20200326065343",
+    "materials": [
+      {
+        "material": "wood",
+        "amount": 3
+      },
+      {
+        "material": "hardwood",
+        "amount": 5
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Jock island resident",
+      "Balloon"
+    ],
+    "sellPrice": 960,
+    "recipeItem": false
+  },
+  {
+    "name": "Lovely cosmos crown",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9a/NH-Cosmos_crown_variation2.png/revision/latest?cb=20200329223037",
+    "materials": [
+      {
+        "material": "pink cosmos",
+        "amount": 4
+      },
+      {
+        "material": "orange cosmos",
+        "amount": 3
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Any island resident"
+    ],
+    "sellPrice": 1120,
+    "recipeItem": false
+  },
+  {
+    "name": "Maple-leaf pochette",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/97/NH-Maple-leaf_pochette.png/revision/latest?cb=20200329223254",
+    "materials": [
+      {
+        "material": "maple leaf",
+        "amount": 6
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Balloon during Maple Leaf Season"
+    ],
+    "sellPrice": 2400,
+    "recipeItem": false
+  },
+  {
+    "name": "Maple-leaf umbrella",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1d/NH-Maple-leaf_umbrella.png/revision/latest?cb=20200329223304",
+    "materials": [
+      {
+        "material": "maple leaf",
+        "amount": 7
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Balloon during Maple Leaf Season"
+    ],
+    "sellPrice": 2800,
+    "recipeItem": false
+  },
+  {
+    "name": "Mum crown",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/81/NH-Mum_crown.png/revision/latest?cb=20200402054003",
+    "materials": [
+      {
+        "material": "red mums",
+        "amount": 2
+      },
+      {
+        "material": "yellow mums",
+        "amount": 2
+      },
+      {
+        "material": "white mums",
+        "amount": 2
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Any island resident"
+    ],
+    "sellPrice": 480,
+    "recipeItem": false
+  },
+  {
+    "name": "Mush umbrella",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/3e/NH-Mushroom_umbrella.png/revision/latest?cb=20200329090952",
+    "materials": [
+      {
+        "material": "flat mushroom",
+        "amount": 3
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Balloon during Mushrooming Season"
+    ],
+    "sellPrice": 1200,
+    "recipeItem": false
+  },
+  {
+    "name": "Orange dress",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/be/NH-Orange_dress.png/revision/latest?cb=20200329075643",
+    "materials": [
+      {
+        "material": "orange",
+        "amount": 8
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Lazy island resident"
+    ],
+    "sellPrice": 1600,
+    "recipeItem": false
+  },
+  {
+    "name": "Orange hat",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/48/NH-Orange_hat.png/revision/latest?cb=20200329080704",
+    "materials": [
+      {
+        "material": "orange",
+        "amount": 5
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Lazy island resident",
+      "Message in a bottle"
+    ],
+    "sellPrice": 1000,
+    "recipeItem": false
+  },
+  {
+    "name": "Orange umbrella",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/35/NH-Orange_umbrella.png/revision/latest?cb=20200329075623",
+    "materials": [
+      {
+        "material": "orange",
+        "amount": 7
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Lazy island resident"
+    ],
+    "sellPrice": 1400,
+    "recipeItem": false
+  },
+  {
+    "name": "Pansy crown",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1e/NH-Pansy_crown.png/revision/latest?cb=20200325182057",
+    "materials": [
+      {
+        "material": "red pansies",
+        "amount": 2
+      },
+      {
+        "material": "yellow pansies",
+        "amount": 2
+      },
+      {
+        "material": "white pansies",
+        "amount": 2
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Any island resident",
+      "Message in a bottle"
+    ],
+    "sellPrice": 480,
+    "recipeItem": false
+  },
+  {
+    "name": "Peach dress",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/73/NH-Peach_dress.png/revision/latest?cb=20200329075532",
+    "materials": [
+      {
+        "material": "peach",
+        "amount": 8
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Normal island resident",
+      "Message in a bottle"
+    ],
+    "sellPrice": 1600,
+    "recipeItem": false
+  },
+  {
+    "name": "Peach hat",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/eb/NH-Peach_hat.png/revision/latest?cb=20200329080716",
+    "materials": [
+      {
+        "material": "peach",
+        "amount": 5
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Normal island resident",
+      "Message in a bottle"
+    ],
+    "sellPrice": 1000,
+    "recipeItem": false
+  },
+  {
+    "name": "Peach umbrella",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/de/NH-Peach_umbrella.png/revision/latest?cb=20200329075517",
+    "materials": [
+      {
+        "material": "peach",
+        "amount": 7
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Normal island resident"
+    ],
+    "sellPrice": 1400,
+    "recipeItem": false
+  },
+  {
+    "name": "Pear dress",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/65/NH-pear_dress-diy-recipes.png/revision/latest?cb=20200429123111",
+    "materials": [
+      {
+        "material": "pear",
+        "amount": 8
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Jock island resident",
+      "Message in a bottle"
+    ],
+    "sellPrice": 1600,
+    "recipeItem": false
+  },
+  {
+    "name": "Pear hat",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/81/NH-Pear_hat.png/revision/latest?cb=20200329080732",
+    "materials": [
+      {
+        "material": "pear",
+        "amount": 5
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Jock island resident"
+    ],
+    "sellPrice": 1000,
+    "recipeItem": false
+  },
+  {
+    "name": "Pear umbrella",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/cb/NH-Pear_umbrella.png/revision/latest?cb=20200329075458",
+    "materials": [
+      {
+        "material": "pear",
+        "amount": 7
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Jock island resident"
+    ],
+    "sellPrice": 1400,
+    "recipeItem": false
+  },
+  {
+    "name": "Purple hyacinth crown",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/df/NH-Hyacinth_crown_3.png/revision/latest?cb=20200329223453",
+    "materials": [
+      {
+        "material": "purple hyacinths",
+        "amount": 6
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Any island resident"
+    ],
+    "sellPrice": 2880,
+    "recipeItem": false
+  },
+  {
+    "name": "Purple pansy crown",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/02/NH-Pansy_crown_3.png/revision/latest?cb=20200329223513",
+    "materials": [
+      {
+        "material": "purple pansies",
+        "amount": 6
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Any island resident"
+    ],
+    "sellPrice": 2880,
+    "recipeItem": false
+  },
+  {
+    "name": "Purple windflower crown",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/04/NH-Windflower_crown_3.png/revision/latest?cb=20200329224325",
+    "materials": [
+      {
+        "material": "purple windflowers",
+        "amount": 6
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Any island resident"
+    ],
+    "sellPrice": 2880,
+    "recipeItem": false
+  },
+  {
+    "name": "Recycled boots",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2b/NH-Recycled_boots.png/revision/latest?cb=20200325182125",
+    "materials": [
+      {
+        "material": "boot",
+        "amount": 2
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Fishing up a boot"
+    ],
+    "sellPrice": 40,
+    "recipeItem": false
+  },
+  {
+    "name": "Rose crown",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/ce/NH-Rose_crown.png/revision/latest?cb=20200325182140",
+    "materials": [
+      {
+        "material": "red roses",
+        "amount": 2
+      },
+      {
+        "material": "yellow roses",
+        "amount": 2
+      },
+      {
+        "material": "white roses",
+        "amount": 2
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Any island resident"
+    ],
+    "sellPrice": 480,
+    "recipeItem": false
+  },
+  {
+    "name": "Shellfish pochette",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/86/NH-Shell_pochette.png/revision/latest?cb=20200329223317",
+    "materials": [
+      {
+        "material": "giant clam",
+        "amount": 2
+      },
+      {
+        "material": "summer shell",
+        "amount": 6
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Balloon during Summer",
+      "Message in a bottle"
+    ],
+    "sellPrice": 10800,
+    "recipeItem": false
+  },
+  {
+    "name": "Simple mum crown",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/33/NH-Mum_crown_3.png/revision/latest?cb=20200329223502",
+    "materials": [
+      {
+        "material": "green mums",
+        "amount": 6
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Any island resident"
+    ],
+    "sellPrice": 2880,
+    "recipeItem": false
+  },
+  {
+    "name": "Sky-egg outfit",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0c/NH-Sky-egg_outfit.png/revision/latest?cb=20200402000447",
+    "materials": [
+      {
+        "material": "sky egg",
+        "amount": 3
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Shooting down sky eggs"
+    ],
+    "sellPrice": 1200,
+    "recipeItem": false
+  },
+  {
+    "name": "Sky-egg shell",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a2/NH-Sky-egg_shell.png/revision/latest?cb=20200401234727",
+    "materials": [
+      {
+        "material": "sky egg",
+        "amount": 2
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Shooting down sky eggs"
+    ],
+    "sellPrice": 800,
+    "recipeItem": false
+  },
+  {
+    "name": "Sky-egg shoes",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c4/NH-Sky-egg_shoes.png/revision/latest?cb=20200401234755",
+    "materials": [
+      {
+        "material": "sky egg",
+        "amount": 2
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Shooting down sky eggs"
+    ],
+    "sellPrice": 800,
+    "recipeItem": false
+  },
+  {
+    "name": "Snowflake pochette",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c6/NH-Snowflake_pochette.png/revision/latest?cb=20200329223325",
+    "materials": [
+      {
+        "material": "snowflake",
+        "amount": 6
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Balloon during Winter"
+    ],
+    "sellPrice": 2400,
+    "recipeItem": false
+  },
+  {
+    "name": "Snowperson head",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0b/NH-Snowman_hat.png/revision/latest?cb=20200329223333",
+    "materials": [
+      {
+        "material": "large snowflake",
+        "amount": 1
+      },
+      {
+        "material": "snowflake",
+        "amount": 5
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Make a perfect Snowboy"
+    ],
+    "sellPrice": 7000,
+    "recipeItem": false
+  },
+  {
+    "name": "Star head",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a3/NH-Star_hat.png/revision/latest?cb=20200329223341",
+    "materials": [
+      {
+        "material": "star fragment",
+        "amount": 5
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Celeste"
+    ],
+    "sellPrice": 2500,
+    "recipeItem": false
+  },
+  {
+    "name": "Star pochette",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b1/NH-Star_pochette.png/revision/latest?cb=20200329223351",
+    "materials": [
+      {
+        "material": "star fragment",
+        "amount": 6
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Celeste"
+    ],
+    "sellPrice": 3000,
+    "recipeItem": false
+  },
+  {
+    "name": "Stone-egg outfit",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/87/NH-Stone-egg_outfit.png/revision/latest?cb=20200401234845",
+    "materials": [
+      {
+        "material": "stone egg",
+        "amount": 3
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Gather stone eggs by hitting rocks"
+    ],
+    "sellPrice": 1200,
+    "recipeItem": false
+  },
+  {
+    "name": "Stone-egg shell",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/63/NH-Stone-egg_shell.png/revision/latest?cb=20200401234813",
+    "materials": [
+      {
+        "material": "stone egg",
+        "amount": 2
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Gather stone eggs by hitting rocks"
+    ],
+    "sellPrice": 800,
+    "recipeItem": false
+  },
+  {
+    "name": "Stone-egg shoes",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2b/NH-Stone-egg_shoes.png/revision/latest?cb=20200401234857",
+    "materials": [
+      {
+        "material": "stone egg",
+        "amount": 2
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Gather stone eggs by hitting rocks"
+    ],
+    "sellPrice": 800,
+    "recipeItem": false
+  },
+  {
+    "name": "Straw umbrella hat",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f9/NH-Straw_umbrella_hat.png/revision/latest?cb=20200329073040",
+    "materials": [
+      {
+        "material": "",
+        "amount": 1
+      },
+      {
+        "material": "clump of weeds",
+        "amount": 0
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Smug island resident",
+      "Message in a bottle"
+    ],
+    "sellPrice": 200,
+    "recipeItem": false
+  },
+  {
+    "name": "Traditional straw coat",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/53/NH-Traditional_straw_coat.png/revision/latest?cb=20200329062929",
+    "materials": [
+      {
+        "material": "clump of weeds",
+        "amount": 8
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Normal island resident",
+      "Message in a bottle"
+    ],
+    "sellPrice": 160,
+    "recipeItem": false
+  },
+  {
+    "name": "Tulip crown",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/99/NH-Tulip_crown.png/revision/latest?cb=20200328032801",
+    "materials": [
+      {
+        "material": "red tulips",
+        "amount": 2
+      },
+      {
+        "material": "yellow tulips",
+        "amount": 2
+      },
+      {
+        "material": "white tulips",
+        "amount": 1
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Any island resident",
+      "Message in a bottle"
+    ],
+    "sellPrice": 400,
+    "recipeItem": false
+  },
+  {
+    "name": "Water-egg outfit",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/63/NH-Water-egg_outfit.png/revision/latest?cb=20200401235010",
+    "materials": [
+      {
+        "material": "water egg",
+        "amount": 3
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Fishing up water Eggs"
+    ],
+    "sellPrice": 1200,
+    "recipeItem": false
+  },
+  {
+    "name": "Water-egg shell",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/ad/NH-Water-egg_shell.png/revision/latest?cb=20200401234949",
+    "materials": [
+      {
+        "material": "water egg",
+        "amount": 2
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Fishing up water Eggs"
+    ],
+    "sellPrice": 800,
+    "recipeItem": false
+  },
+  {
+    "name": "Water-egg shoes",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/ae/NH-Water-egg_shoes.png/revision/latest?cb=20200401235025",
+    "materials": [
+      {
+        "material": "water egg",
+        "amount": 2
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Fishing up water Eggs"
+    ],
+    "sellPrice": 800,
+    "recipeItem": false
+  },
+  {
+    "name": "Windflower crown",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/34/NH-Windflower_crown.png/revision/latest?cb=20200329070453",
+    "materials": [
+      {
+        "material": "red windflowers",
+        "amount": 2
+      },
+      {
+        "material": "orange windflowers",
+        "amount": 2
+      },
+      {
+        "material": "white windflowers",
+        "amount": 2
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Any island resident",
+      "Message in a bottle"
+    ],
+    "sellPrice": 480,
+    "recipeItem": false
+  },
+  {
+    "name": "Wood-egg outfit",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/55/NH-Wood-egg_outfit.png/revision/latest?cb=20200416023802",
+    "materials": [
+      {
+        "material": "wood egg",
+        "amount": 3
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Gather wood eggs by hitting trees with an axe"
+    ],
+    "sellPrice": 1200,
+    "recipeItem": false
+  },
+  {
+    "name": "Wood-egg shell",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/35/NH-Wood-egg_shell.png/revision/latest?cb=20200401235056",
+    "materials": [
+      {
+        "material": "wood egg",
+        "amount": 2
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Gather wood eggs by hitting trees with an axe"
+    ],
+    "sellPrice": 800,
+    "recipeItem": false
+  },
+  {
+    "name": "Wood-egg shoes",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b8/NH-Wood-egg_shoes.png/revision/latest?cb=20200401235040",
+    "materials": [
+      {
+        "material": "wood egg",
+        "amount": 2
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Gather wood eggs by hitting trees with an axe"
+    ],
+    "sellPrice": 800,
+    "recipeItem": false
+  }
+]

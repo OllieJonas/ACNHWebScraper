@@ -1,0 +1,450 @@
+[
+  {
+    "name": "Bamboo lattice fence",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/ac/NH-bamboo_lattice_fence.png/revision/latest?cb=20200326070636",
+    "materials": [
+      {
+        "material": "bamboo piece",
+        "amount": 6
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": "Nook Stop (1,000 miles)",
+    "sellPrice": 96
+  },
+  {
+    "name": "Barbed-wire fence",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d0/NH-Barbed-wire_fence.png/revision/latest?cb=20200326070702",
+    "materials": [
+      {
+        "material": "hardwood",
+        "amount": 4
+      },
+      {
+        "material": "iron nugget",
+        "amount": 2
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": "Nook Stop (1,000 miles)",
+    "sellPrice": 198
+  },
+  {
+    "name": "Brick Fence",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8c/NH-Brick_fence.png/revision/latest?cb=20200326070747",
+    "materials": [
+      {
+        "material": "clay",
+        "amount": 6
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": "Nook Stop (1,000 miles)",
+    "sellPrice": 120
+  },
+  {
+    "name": "Bunny Day fence",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/3a/NH-Bunny_Day_fence.png/revision/latest?cb=20200402054307",
+    "materials": [
+      {
+        "material": "earth egg",
+        "amount": 1
+      },
+      {
+        "material": "stone egg",
+        "amount": 1
+      },
+      {
+        "material": "leaf egg",
+        "amount": 1
+      },
+      {
+        "material": "wood egg",
+        "amount": 1
+      },
+      {
+        "material": "sky egg",
+        "amount": 1
+      },
+      {
+        "material": "water egg",
+        "amount": 1
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": "Bunny Day",
+    "sellPrice": 240
+  },
+  {
+    "name": "Corral fence",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8e/NH-Corral_fence.png/revision/latest?cb=20200327000329",
+    "materials": [
+      {
+        "material": "wood",
+        "amount": 6
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": "Nook Stop (1,000 miles)",
+    "sellPrice": 72
+  },
+  {
+    "name": "Country fence",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/07/NH-Country_fence.png/revision/latest?cb=20200327000304",
+    "materials": [
+      {
+        "material": "hardwood",
+        "amount": 6
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": "Nook Stop (1,000 miles)",
+    "sellPrice": 72
+  },
+  {
+    "name": "Hedge",
+    "imageLink": "Unknown",
+    "materials": [
+      {
+        "material": "clump of weeds",
+        "amount": 6
+      },
+      {
+        "material": "tree branch",
+        "amount": 5
+      },
+      {
+        "material": "stone",
+        "amount": 2
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": "Nature Day",
+    "sellPrice": 55
+  },
+  {
+    "name": "Imperial fence",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/42/NH-Imperial_fence.png/revision/latest?cb=20200325181853",
+    "materials": [
+      {
+        "material": "wood",
+        "amount": 6
+      },
+      {
+        "material": "softwood",
+        "amount": 4
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": "Nook Stop (1,000 miles)",
+    "sellPrice": 120
+  },
+  {
+    "name": "Iron-and-stone fence",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/75/NH-Iron-and-stone_fence.png/revision/latest?cb=20200326071024",
+    "materials": [
+      {
+        "material": "stone",
+        "amount": 6
+      },
+      {
+        "material": "iron nugget",
+        "amount": 3
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": "Nook Stop (1,000 miles)",
+    "sellPrice": 315
+  },
+  {
+    "name": "Iron fence",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/74/NH-Iron_fence.png/revision/latest?cb=20200325181858",
+    "materials": [
+      {
+        "material": "iron nugget",
+        "amount": 6
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": "Nook Stop (1,000 miles)",
+    "sellPrice": 450
+  },
+  {
+    "name": "Fish bait",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b0/NH-Fish_bait.png/revision/latest?cb=20200325174427",
+    "materials": [
+      {
+        "material": "manila clam",
+        "amount": 1
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": "Digging up a manila clam",
+    "sellPrice": 200
+  },
+  {
+    "name": "Lattice fence",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e4/NH-Lattice_fence.png/revision/latest?cb=20200325181924",
+    "materials": [
+      {
+        "material": "softwood",
+        "amount": 8
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": "Nook Stop (1,000 miles)",
+    "sellPrice": 96
+  },
+  {
+    "name": "Medicine",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c0/NH-Medicine.png/revision/latest?cb=20200325182005",
+    "materials": [
+      {
+        "material": "wasp nest",
+        "amount": 1
+      },
+      {
+        "material": "clump of weeds",
+        "amount": 3
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": "An island resident after being stung",
+    "sellPrice": 100
+  },
+  {
+    "name": "Ocarina",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5d/NH-Ocarina.png/revision/latest?cb=20200325182042",
+    "materials": [
+      {
+        "material": "clay",
+        "amount": 5
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": "DIY for Beginners (480 Bells from Timmy)",
+    "sellPrice": 1000
+  },
+  {
+    "name": "Pan flute",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8f/NH-Other-Pan_flute.png/revision/latest?cb=20200326053933",
+    "materials": [
+      {
+        "material": "young spring bamboo",
+        "amount": 7
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": "Balloon",
+    "sellPrice": 2800
+  },
+  {
+    "name": "Pitfall seed",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/bc/NH-Pitfall-Seed.png/revision/latest?cb=20200409034445",
+    "materials": [
+      {
+        "material": "clump of weeds",
+        "amount": 4
+      },
+      {
+        "material": "tree branch",
+        "amount": 6
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": "Jock island resident, Balloon, Message in a bottle",
+    "sellPrice": 140
+  },
+  {
+    "name": "Rope Fence",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/27/NH-Rope_fence.png/revision/latest?cb=20200326070837",
+    "materials": [
+      {
+        "material": "iron nugget",
+        "amount": 4
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": "Nook Stop (1,000 miles)",
+    "sellPrice": 300
+  },
+  {
+    "name": "Simple wooden fence",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/10/NH-Simple_wooden_fence.png/revision/latest?cb=20200326044227",
+    "materials": [
+      {
+        "material": "softwood",
+        "amount": 6
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": "Nook Stop (1,000 miles)",
+    "sellPrice": 72
+  },
+  {
+    "name": "Spiky fence",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/ed/NH-Spiky_fence.png/revision/latest?cb=20200326071058",
+    "materials": [
+      {
+        "material": "hardwood",
+        "amount": 8
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": "Nook Stop (1,000 miles)",
+    "sellPrice": 96
+  },
+  {
+    "name": "Stone fence",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/3c/NH-Stone_fence.png/revision/latest?cb=20200325182316",
+    "materials": [
+      {
+        "material": "stone",
+        "amount": 4
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": "Nook Stop (1,000 miles)",
+    "sellPrice": 60
+  },
+  {
+    "name": "Straw fence",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b1/NH-Straw_fence.png/revision/latest?cb=20200326070927",
+    "materials": [
+      {
+        "material": "",
+        "amount": 1
+      },
+      {
+        "material": "wood",
+        "amount": 3
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": "Nook Stop (1,000 miles)",
+    "sellPrice": 56
+  },
+  {
+    "name": "Vertical-board fence",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/77/NH-Vertical-board_fence.png/revision/latest?cb=20200326044242",
+    "materials": [
+      {
+        "material": "wood",
+        "amount": 8
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": "Nook Stop (1,000 miles)",
+    "sellPrice": 96
+  },
+  {
+    "name": "Wedding fence",
+    "imageLink": "Unknown",
+    "materials": [
+      {
+        "material": "iron nugget",
+        "amount": 5
+      },
+      {
+        "material": "softwood",
+        "amount": 3
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": "*",
+    "sellPrice": 411
+  },
+  {
+    "name": "Zen fence",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e4/NH-Zen_fence.png/revision/latest?cb=20200325182524",
+    "materials": [
+      {
+        "material": "iron nugget",
+        "amount": 3
+      },
+      {
+        "material": "clay",
+        "amount": 3
+      },
+      {
+        "material": "stone",
+        "amount": 3
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": "Nook Stop (1,000 miles)",
+    "sellPrice": 330
+  }
+]

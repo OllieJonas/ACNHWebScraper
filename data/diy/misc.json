@@ -1,0 +1,1409 @@
+[
+  {
+    "name": "Aroma pot",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/87/NH-Furniture-Aroma_pot.png/revision/latest?cb=20200503121313",
+    "materials": [
+      {
+        "material": "clay",
+        "amount": 4
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Snooty island resident",
+      "Message in a bottle"
+    ],
+    "sellPrice": 600,
+    "recipeItem": false
+  },
+  {
+    "name": "Bamboo candleholder",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a3/NH-Furniture-Bamboo_candleholder.png/revision/latest?cb=20200406054705",
+    "materials": [
+      {
+        "material": "bamboo piece",
+        "amount": 3
+      },
+      {
+        "material": "clay",
+        "amount": 2
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Snooty island resident"
+    ],
+    "sellPrice": 880,
+    "recipeItem": false
+  },
+  {
+    "name": "Bamboo drum",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/15/NH-Furniture-Bamboo_drum.png/revision/latest?cb=20200326035317",
+    "materials": [
+      {
+        "material": "bamboo piece",
+        "amount": 3
+      },
+      {
+        "material": "softwood",
+        "amount": 2
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Jock island resident",
+      "Message in a bottle"
+    ],
+    "sellPrice": 720,
+    "recipeItem": false
+  },
+  {
+    "name": "Bamboo lunch box",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/af/NH-Furniture-Bamboo_lunch_box.png/revision/latest?cb=20200328074109",
+    "materials": [
+      {
+        "material": "bamboo piece",
+        "amount": 4
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Snooty island resident",
+      "Message in a bottle"
+    ],
+    "sellPrice": 640,
+    "recipeItem": false
+  },
+  {
+    "name": "Bamboo-shoot lamp",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/ae/NH-Furniture-Bamboo-shoot_lamp.png/revision/latest?cb=20200406054818",
+    "materials": [
+      {
+        "material": "young spring bamboo",
+        "amount": 4
+      },
+      {
+        "material": "bamboo shoot",
+        "amount": 5
+      },
+      {
+        "material": "clay",
+        "amount": 4
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Balloon"
+    ],
+    "sellPrice": 4900,
+    "recipeItem": false
+  },
+  {
+    "name": "Bamboo sphere",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c7/NH-Furniture-Bamboo_sphere.png/revision/latest?cb=20200328071109",
+    "materials": [
+      {
+        "material": "bamboo piece",
+        "amount": 3
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Normal island resident"
+    ],
+    "sellPrice": 480,
+    "recipeItem": false
+  },
+  {
+    "name": "Bunny Day lamp",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0a/NH-Furniture-Bunny_Day_lamp.png/revision/latest?cb=20200402000212",
+    "materials": [
+      {
+        "material": "wood egg",
+        "amount": 4
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Bunny Day"
+    ],
+    "sellPrice": 1600,
+    "recipeItem": false
+  },
+  {
+    "name": "Cherry-blossom bonsai",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/65/NH-Furniture-Cherry-blossom_bonsai.png/revision/latest?cb=20200329082840",
+    "materials": [
+      {
+        "material": "cherry-blossom petal",
+        "amount": 6
+      },
+      {
+        "material": "hardwood",
+        "amount": 2
+      },
+      {
+        "material": "clump of weeds",
+        "amount": 3
+      },
+      {
+        "material": "clay",
+        "amount": 3
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Balloon"
+    ],
+    "sellPrice": 3300,
+    "recipeItem": false
+  },
+  {
+    "name": "Cherry speakers",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH-Furniture-Cherry_speakers.png/revision/latest?cb=20200326033306",
+    "materials": [
+      {
+        "material": "",
+        "amount": 1
+      },
+      {
+        "material": "iron nugget",
+        "amount": 2
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Tom Nook after receiving first three housing kits, if the native fruit is cherries",
+      "Peppy island resident",
+      "Message in a bottle"
+    ],
+    "sellPrice": 3500,
+    "recipeItem": false
+  },
+  {
+    "name": "Classic pitcher",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b8/NH-Furniture-Classic_pitcher.png/revision/latest?cb=20200325181619",
+    "materials": [
+      {
+        "material": "clay",
+        "amount": 4
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Tom Nook after receiving first three housing kits",
+      "Snooty island resident"
+    ],
+    "sellPrice": 800,
+    "recipeItem": false
+  },
+  {
+    "name": "Coconut juice",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1a/NH-Furniture-Coconut_juice.png/revision/latest?cb=20200326063010",
+    "materials": [
+      {
+        "material": "coconut",
+        "amount": 1
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Snooty island resident",
+      "Message in a bottle"
+    ],
+    "sellPrice": 500,
+    "recipeItem": false
+  },
+  {
+    "name": "Cutting board",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/df/NH-Furniture-Cutting_board.png/revision/latest?cb=20200327121109",
+    "materials": [
+      {
+        "material": "hardwood",
+        "amount": 2
+      },
+      {
+        "material": "iron nugget",
+        "amount": 1
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Normal island resident"
+    ],
+    "sellPrice": 990,
+    "recipeItem": false
+  },
+  {
+    "name": "Decoy duck",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9d/NH-Furniture-Decoy_duck.png/revision/latest?cb=20200326062620",
+    "materials": [
+      {
+        "material": "softwood",
+        "amount": 4
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Smug island resident"
+    ],
+    "sellPrice": 480,
+    "recipeItem": false
+  },
+  {
+    "name": "Document stack",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a3/NH-Furniture-Document_stack.png/revision/latest?cb=20200327135654",
+    "materials": [
+      {
+        "material": "scattered papers",
+        "amount": 1
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Smug island resident",
+      "Message in a bottle"
+    ],
+    "sellPrice": 400,
+    "recipeItem": false
+  },
+  {
+    "name": "Festive top set",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/34/NH-Furniture-Festive_top_set.png/revision/latest?cb=20200423195952",
+    "materials": [
+      {
+        "material": "gold ornament",
+        "amount": 2
+      },
+      {
+        "material": "hardwood",
+        "amount": 1
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [],
+    "sellPrice": 320,
+    "recipeItem": false
+  },
+  {
+    "name": "Firewood",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/ad/NH-Furniture-Firewood.png/revision/latest?cb=20200325181631",
+    "materials": [
+      {
+        "material": "wood",
+        "amount": 8
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Jock island resident"
+    ],
+    "sellPrice": 960,
+    "recipeItem": false
+  },
+  {
+    "name": "Frozen-treat set",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e5/NH-Furniture-Frozen-treat_set.png/revision/latest?cb=20200329100529",
+    "materials": [
+      {
+        "material": "large snowflake",
+        "amount": 1
+      },
+      {
+        "material": "snowflake",
+        "amount": 1
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [],
+    "sellPrice": 5400,
+    "recipeItem": false
+  },
+  {
+    "name": "Fruit basket",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/97/NH-Furniture-Fruit_basket.png/revision/latest?cb=20200329085208",
+    "materials": [
+      {
+        "material": "apple",
+        "amount": 1
+      },
+      {
+        "material": "pear",
+        "amount": 1
+      },
+      {
+        "material": "cherry",
+        "amount": 1
+      },
+      {
+        "material": "orange",
+        "amount": 1
+      },
+      {
+        "material": "peach",
+        "amount": 1
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Cranky island resident",
+      "Message in a bottle"
+    ],
+    "sellPrice": 1000,
+    "recipeItem": false
+  },
+  {
+    "name": "Frying pan",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/db/NH-Furniture-Frying_pan.png/revision/latest?cb=20200325181805",
+    "materials": [
+      {
+        "material": "iron nugget",
+        "amount": 2
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "DIY for Beginners"
+    ],
+    "sellPrice": 1500,
+    "recipeItem": false
+  },
+  {
+    "name": "Gold bars",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8f/NH-Furniture-Gold_bars.png/revision/latest?cb=20200329093451",
+    "materials": [
+      {
+        "material": "gold nugget",
+        "amount": 3
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Snooty island resident",
+      "Message in a bottle"
+    ],
+    "sellPrice": 30000,
+    "recipeItem": false
+  },
+  {
+    "name": "Golden arowana model",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/63/NH-Furniture-Golden_arowana_model.png/revision/latest?cb=20200404131259",
+    "materials": [
+      {
+        "material": "gold nugget",
+        "amount": 3
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Lazy island resident",
+      "Message in a bottle"
+    ],
+    "sellPrice": 30000,
+    "recipeItem": false
+  },
+  {
+    "name": "Golden candlestick",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/18/NH-Furniture-Golden_candlestick.png/revision/latest?cb=20200329061620",
+    "materials": [
+      {
+        "material": "gold nugget",
+        "amount": 2
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Smug island resident"
+    ],
+    "sellPrice": 20000,
+    "recipeItem": false
+  },
+  {
+    "name": "Golden dishes",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9b/NH-Furniture-Golden_dishes.png/revision/latest?cb=20200329093504",
+    "materials": [
+      {
+        "material": "gold nugget",
+        "amount": 1
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Snooty island resident",
+      "Message in a bottle"
+    ],
+    "sellPrice": 10000,
+    "recipeItem": false
+  },
+  {
+    "name": "Golden dung beetle",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/69/NH-Furniture-Golden_dung_beetle.png/revision/latest?cb=20200326074353",
+    "materials": [
+      {
+        "material": "gold nugget",
+        "amount": 3
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Lazy island resident",
+      "Message in a bottle"
+    ],
+    "sellPrice": 30000,
+    "recipeItem": false
+  },
+  {
+    "name": "Holiday candle",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d1/NH-Furniture-Holiday_candle.png/revision/latest?cb=20200423195957",
+    "materials": [
+      {
+        "material": "red ornament",
+        "amount": 5
+      },
+      {
+        "material": "clump of weeds",
+        "amount": 5
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [],
+    "sellPrice": 600,
+    "recipeItem": false
+  },
+  {
+    "name": "Hyacinth lamp",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/79/NH-Furniture-Hyacinth_lamp.png/revision/latest?cb=20200329061654",
+    "materials": [
+      {
+        "material": "purple hyacinths",
+        "amount": 5
+      },
+      {
+        "material": "clay",
+        "amount": 3
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Uchi island resident"
+    ],
+    "sellPrice": 3000,
+    "recipeItem": false
+  },
+  {
+    "name": "Infused-water dispenser",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/49/NH-Furniture-Infused-water_dispenser.png/revision/latest?cb=20200329102843",
+    "materials": [
+      {
+        "material": "apple",
+        "amount": 2
+      },
+      {
+        "material": "pear",
+        "amount": 2
+      },
+      {
+        "material": "cherry",
+        "amount": 2
+      },
+      {
+        "material": "orange",
+        "amount": 2
+      },
+      {
+        "material": "peach",
+        "amount": 2
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Cranky island resident"
+    ],
+    "sellPrice": 3000,
+    "recipeItem": false
+  },
+  {
+    "name": "Kettlebell",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/05/NH-Furniture-Kettlebell.png/revision/latest?cb=20200329061737",
+    "materials": [
+      {
+        "material": "iron nugget",
+        "amount": 5
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Jock island resident",
+      "Message in a bottle"
+    ],
+    "sellPrice": 3750,
+    "recipeItem": false
+  },
+  {
+    "name": "Libra scale",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/df/NH-Furniture-Libra_scale.png/revision/latest?cb=20200328083916",
+    "materials": [
+      {
+        "material": "star fragment",
+        "amount": 3
+      },
+      {
+        "material": "Libra fragment",
+        "amount": 2
+      },
+      {
+        "material": "gold nugget",
+        "amount": 2
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Celeste"
+    ],
+    "sellPrice": 21750,
+    "recipeItem": false
+  },
+  {
+    "name": "Lucky gold cat",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/43/NH-Furniture-Lucky_gold_cat.png/revision/latest?cb=20200328002458",
+    "materials": [
+      {
+        "material": "gold nugget",
+        "amount": 3
+      },
+      {
+        "material": "Lucky cat",
+        "amount": 1
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Snooty island resident",
+      "Message in a bottle",
+      "Balloon"
+    ],
+    "sellPrice": 21675,
+    "recipeItem": false
+  },
+  {
+    "name": "Magazine rack",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6d/NH-Furniture-Magazine_rack.png/revision/latest?cb=20200329061812",
+    "materials": [
+      {
+        "material": "magazine",
+        "amount": 2
+      },
+      {
+        "material": "wood",
+        "amount": 4
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Peppy island resident"
+    ],
+    "sellPrice": 690,
+    "recipeItem": false
+  },
+  {
+    "name": "Matryoshka",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9a/NH-Furniture-Matryoshka.png/revision/latest?cb=20200325195344",
+    "materials": [
+      {
+        "material": "softwood",
+        "amount": 5
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Lazy island resident",
+      "Message in a bottle"
+    ],
+    "sellPrice": 600,
+    "recipeItem": false
+  },
+  {
+    "name": "Modeling clay",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a9/NH-Furniture-Modeling_clay.png/revision/latest?cb=20200330005508",
+    "materials": [
+      {
+        "material": "clay",
+        "amount": 2
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Cranky island resident"
+    ],
+    "sellPrice": 400,
+    "recipeItem": false
+  },
+  {
+    "name": "Nova light",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e4/NH-Furniture-Nova_light.png/revision/latest?cb=20200423190150",
+    "materials": [
+      {
+        "material": "star fragment",
+        "amount": 5
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Celeste"
+    ],
+    "sellPrice": 2500,
+    "recipeItem": false
+  },
+  {
+    "name": "Old-fashioned washtub",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/51/NH-Furniture-Old-fashioned_washtub.png/revision/latest?cb=20200325182049",
+    "materials": [
+      {
+        "material": "softwood",
+        "amount": 3
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "DIY for Beginners"
+    ],
+    "sellPrice": 360,
+    "recipeItem": false
+  },
+  {
+    "name": "Peach surprise box",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/14/NH-Furniture-Peach_surprise_box.png/revision/latest?cb=20200326043912",
+    "materials": [
+      {
+        "material": "",
+        "amount": 1
+      },
+      {
+        "material": "softwood",
+        "amount": 4
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Tom Nook after receiving first three housing kits, if the native fruit is peaches",
+      "Normal island resident",
+      "Message in a bottle"
+    ],
+    "sellPrice": 2480,
+    "recipeItem": false
+  },
+  {
+    "name": "Pine bonsai tree",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/78/NH-Furniture-Pine_bonsai_tree.png/revision/latest?cb=20200329121910",
+    "materials": [
+      {
+        "material": "pine cone",
+        "amount": 8
+      },
+      {
+        "material": "clay",
+        "amount": 5
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [],
+    "sellPrice": 4200,
+    "recipeItem": false
+  },
+  {
+    "name": "Pot",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f9/NH-Furniture-Pot.png/revision/latest?cb=20200325182111",
+    "materials": [
+      {
+        "material": "clay",
+        "amount": 5
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Tom Nook after receiving first three housing kits",
+      "Cranky island resident"
+    ],
+    "sellPrice": 1000,
+    "recipeItem": false
+  },
+  {
+    "name": "Recycled-can thumb piano",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/82/NH-Furniture-Recycled-can_thumb_piano.png/revision/latest?cb=20200325182132",
+    "materials": [
+      {
+        "material": "empty can",
+        "amount": 1
+      },
+      {
+        "material": "wood",
+        "amount": 1
+      },
+      {
+        "material": "iron nugget",
+        "amount": 1
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Fishing up cans"
+    ],
+    "sellPrice": 890,
+    "recipeItem": false
+  },
+  {
+    "name": "Ringtoss",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a7/NH-Furniture-Ringtoss.png/revision/latest?cb=20200326052140",
+    "materials": [
+      {
+        "material": "wood",
+        "amount": 2
+      },
+      {
+        "material": "softwood",
+        "amount": 2
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Test Your DIY Skills"
+    ],
+    "sellPrice": 480,
+    "recipeItem": false
+  },
+  {
+    "name": "Scorpio lamp",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c6/NH-Furniture-Scorpio_lamp.png/revision/latest?cb=20200328084250",
+    "materials": [
+      {
+        "material": "star fragment",
+        "amount": 3
+      },
+      {
+        "material": "Scorpius fragment",
+        "amount": 2
+      },
+      {
+        "material": "gold nugget",
+        "amount": 2
+      },
+      {
+        "material": "stone",
+        "amount": 5
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Celeste Scorpio dates: October 23 \u2013 November 21"
+    ],
+    "sellPrice": 22125,
+    "recipeItem": false
+  },
+  {
+    "name": "Shell lamp",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/52/NH-Furniture-Shell_lamp.png/revision/latest?cb=20200329070038",
+    "materials": [
+      {
+        "material": "giant clam",
+        "amount": 2
+      },
+      {
+        "material": "clay",
+        "amount": 3
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Uchi island resident"
+    ],
+    "sellPrice": 4200,
+    "recipeItem": false
+  },
+  {
+    "name": "Shell speaker",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/80/NH-Furniture-Shell_speaker.png/revision/latest?cb=20200325182202",
+    "materials": [
+      {
+        "material": "conch",
+        "amount": 3
+      },
+      {
+        "material": "iron nugget",
+        "amount": 2
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Uchi island resident"
+    ],
+    "sellPrice": 5700,
+    "recipeItem": false
+  },
+  {
+    "name": "Stack of books",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f2/Stack_of_books.png/revision/latest?cb=20200329121923",
+    "materials": [
+      {
+        "material": "book",
+        "amount": 5
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Lazy island resident"
+    ],
+    "sellPrice": 725,
+    "recipeItem": false
+  },
+  {
+    "name": "Stacked magazines",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/ed/Stacked_magazines.png/revision/latest?cb=20200329121937",
+    "materials": [
+      {
+        "material": "magazine",
+        "amount": 6
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Peppy island resident"
+    ],
+    "sellPrice": 630,
+    "recipeItem": false
+  },
+  {
+    "name": "Star clock",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/88/NH-Furniture-Star_clock.png/revision/latest?cb=20200329093541",
+    "materials": [
+      {
+        "material": "star fragment",
+        "amount": 3
+      },
+      {
+        "material": "iron nugget",
+        "amount": 1
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Celeste"
+    ],
+    "sellPrice": 2250,
+    "recipeItem": false
+  },
+  {
+    "name": "Steamer-basket set",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9b/NH-Furniture-Steamer-basket_set.png/revision/latest?cb=20200325182257",
+    "materials": [
+      {
+        "material": "young spring bamboo",
+        "amount": 6
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Balloon"
+    ],
+    "sellPrice": 2400,
+    "recipeItem": false
+  },
+  {
+    "name": "Succulent plant",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5c/NH-Furniture-Succulent_plant.png/revision/latest?cb=20200325182335",
+    "materials": [
+      {
+        "material": "",
+        "amount": 1
+      },
+      {
+        "material": "empty can",
+        "amount": 1
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Fishing up an empty can"
+    ],
+    "sellPrice": 220,
+    "recipeItem": false
+  },
+  {
+    "name": "Tabletop festive tree",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7c/NH-Furniture-Tabletop_festive_tree.png/revision/latest?cb=20200329085143",
+    "materials": [
+      {
+        "material": "gold ornament",
+        "amount": 5
+      },
+      {
+        "material": "tree branch",
+        "amount": 3
+      },
+      {
+        "material": "clay",
+        "amount": 2
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [],
+    "sellPrice": 930,
+    "recipeItem": false
+  },
+  {
+    "name": "Terrarium",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9e/NH-Furniture-Terrarium.png/revision/latest?cb=20200327063910",
+    "materials": [
+      {
+        "material": "",
+        "amount": 1
+      },
+      {
+        "material": "clump of weeds",
+        "amount": 2
+      },
+      {
+        "material": "iron nugget",
+        "amount": 2
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Normal island resident",
+      "Message in a bottle"
+    ],
+    "sellPrice": 1740,
+    "recipeItem": false
+  },
+  {
+    "name": "Traditional balancing toy",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1a/NH-Furniture-Traditional_balancing_toy.png/revision/latest?cb=20200402111733",
+    "materials": [
+      {
+        "material": "acorn",
+        "amount": 4
+      },
+      {
+        "material": "hardwood",
+        "amount": 2
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [],
+    "sellPrice": 1840,
+    "recipeItem": false
+  },
+  {
+    "name": "Trash bags",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6c/NH-Furniture-Trash_bags.png/revision/latest?cb=20200325182406",
+    "materials": [
+      {
+        "material": "empty can",
+        "amount": 1
+      },
+      {
+        "material": "boot",
+        "amount": 1
+      },
+      {
+        "material": "old tire",
+        "amount": 1
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Fishing up trash"
+    ],
+    "sellPrice": 60,
+    "recipeItem": false
+  },
+  {
+    "name": "Tree's bounty lamp",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/3e/NH-Furniture-Tree%27s_bounty_lamp.png/revision/latest?cb=20200329100236",
+    "materials": [
+      {
+        "material": "acorn",
+        "amount": 6
+      },
+      {
+        "material": "clay",
+        "amount": 4
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [],
+    "sellPrice": 3200,
+    "recipeItem": false
+  },
+  {
+    "name": "Tree's bounty little tree",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/97/NH-Furniture-Tree%27s_bounty_little_tree.png/revision/latest?cb=20200329100248",
+    "materials": [
+      {
+        "material": "pine cone",
+        "amount": 6
+      },
+      {
+        "material": "acorn",
+        "amount": 4
+      },
+      {
+        "material": "hardwood",
+        "amount": 1
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Isabelle"
+    ],
+    "sellPrice": 4120,
+    "recipeItem": false
+  },
+  {
+    "name": "Ukulele",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1e/NH-Furniture-Ukulele.png/revision/latest?cb=20200329103235",
+    "materials": [
+      {
+        "material": "hardwood",
+        "amount": 5
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Smug island resident"
+    ],
+    "sellPrice": 600,
+    "recipeItem": false
+  },
+  {
+    "name": "Unglazed dish set",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e7/NH-Furniture-Unglazed_dish_set.png/revision/latest?cb=20200326063603",
+    "materials": [
+      {
+        "material": "clay",
+        "amount": 3
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Snooty island resident",
+      "Message in a bottle"
+    ],
+    "sellPrice": 600,
+    "recipeItem": false
+  },
+  {
+    "name": "Windflower fan",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/32/NH-Furniture-Windflower_fan.png/revision/latest?cb=20200329100322",
+    "materials": [
+      {
+        "material": "red windflowers",
+        "amount": 3
+      },
+      {
+        "material": "iron nugget",
+        "amount": 2
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Lazy island resident",
+      "Message in a bottle"
+    ],
+    "sellPrice": 1740,
+    "recipeItem": false
+  },
+  {
+    "name": "Wobbling Zipper toy",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0a/NH-Furniture-Wobbling_Zipper_toy.png/revision/latest?cb=20200412165739",
+    "materials": [
+      {
+        "material": "earth egg",
+        "amount": 4
+      },
+      {
+        "material": "stone egg",
+        "amount": 4
+      },
+      {
+        "material": "leaf egg",
+        "amount": 4
+      },
+      {
+        "material": "wood egg",
+        "amount": 4
+      },
+      {
+        "material": "sky egg",
+        "amount": 4
+      },
+      {
+        "material": "water egg",
+        "amount": 4
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Bunny Day"
+    ],
+    "sellPrice": 9600,
+    "recipeItem": false
+  },
+  {
+    "name": "Wooden-block toy",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b0/NH-Furniture-Wooden-block_toy.png/revision/latest?cb=20200325182518",
+    "materials": [
+      {
+        "material": "softwood",
+        "amount": 3
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [],
+    "sellPrice": 360,
+    "recipeItem": false
+  },
+  {
+    "name": "Wooden fish",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7a/NH-Furniture-Wooden_fish.png/revision/latest?cb=20200325182436",
+    "materials": [
+      {
+        "material": "wood",
+        "amount": 3
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Wildest Dreams DIY"
+    ],
+    "sellPrice": 360,
+    "recipeItem": false
+  },
+  {
+    "name": "Wooden table mirror",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/82/NH-Furniture-Wooden_table_mirror.png/revision/latest?cb=20200326062645",
+    "materials": [
+      {
+        "material": "wood",
+        "amount": 3
+      },
+      {
+        "material": "iron nugget",
+        "amount": 1
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Given when Tom Nook gives you your first recipes",
+      "Uchi island resident"
+    ],
+    "sellPrice": 1110,
+    "recipeItem": false
+  },
+  {
+    "name": "Wooden toolbox",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/de/NH-Furniture-Wooden_toolbox.png/revision/latest?cb=20200327102526",
+    "materials": [
+      {
+        "material": "softwood",
+        "amount": 4
+      },
+      {
+        "material": "iron nugget",
+        "amount": 2
+      }
+    ],
+    "size": [
+      1.0,
+      1.0
+    ],
+    "source": [
+      "Normal island resident",
+      "Message in a bottle"
+    ],
+    "sellPrice": 1980,
+    "recipeItem": false
+  }
+]

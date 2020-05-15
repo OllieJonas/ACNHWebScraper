@@ -1,0 +1,1631 @@
+[
+  {
+    "name": "Apple rug",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a0/NH-Furniture-Apple_rug.png/revision/latest?cb=20200329070930",
+    "materials": [
+      {
+        "material": "apple",
+        "amount": 6
+      }
+    ],
+    "size": [
+      3.0,
+      3.0
+    ],
+    "source": [
+      "Uchi island resident"
+    ],
+    "sellPrice": 1200,
+    "recipeItem": false
+  },
+  {
+    "name": "Apple wall",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c9/NH-Furniture-Apple_wall.png/revision/latest?cb=20200326055058",
+    "materials": [
+      {
+        "material": "",
+        "amount": 2
+      },
+      {
+        "material": "apple",
+        "amount": 0
+      }
+    ],
+    "size": "N/A",
+    "source": [
+      "Uchi island resident",
+      "Message in a bottle"
+    ],
+    "sellPrice": 4000,
+    "recipeItem": false
+  },
+  {
+    "name": "Autumn wall",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2c/NH-Furniture-Autumn_wall.png/revision/latest?cb=20200409050126",
+    "materials": [
+      {
+        "material": "",
+        "amount": 1
+      },
+      {
+        "material": "wood",
+        "amount": 5
+      },
+      {
+        "material": "clump of weeds",
+        "amount": 5
+      }
+    ],
+    "size": "N/A",
+    "source": [],
+    "sellPrice": 4700,
+    "recipeItem": false
+  },
+  {
+    "name": "Backyard lawn",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9e/NH-Furniture-Backyard_lawn.png/revision/latest?cb=20200326060311",
+    "materials": [
+      {
+        "material": "",
+        "amount": 3
+      },
+      {
+        "material": "clump of weeds",
+        "amount": 0
+      }
+    ],
+    "size": "N/A",
+    "source": [
+      "Peppy island resident"
+    ],
+    "sellPrice": 600,
+    "recipeItem": false
+  },
+  {
+    "name": "Bamboo flooring",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f1/Bamboo_flooring.png/revision/latest?cb=20200329083743",
+    "materials": [
+      {
+        "material": "",
+        "amount": 1
+      },
+      {
+        "material": "bamboo piece",
+        "amount": 5
+      }
+    ],
+    "size": "N/A",
+    "source": [
+      "Cranky island resident"
+    ],
+    "sellPrice": 2400,
+    "recipeItem": false
+  },
+  {
+    "name": "Bamboo wall",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6f/Bamboo_wall.png/revision/latest?cb=20200329083809",
+    "materials": [
+      {
+        "material": "",
+        "amount": 1
+      },
+      {
+        "material": "bamboo piece",
+        "amount": 5
+      }
+    ],
+    "size": "N/A",
+    "source": [
+      "Cranky island resident"
+    ],
+    "sellPrice": 2400,
+    "recipeItem": false
+  },
+  {
+    "name": "Bamboo-grove wall",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/89/NH-Furniture-Bamboo-grove_wall.png/revision/latest?cb=20200326044637",
+    "materials": [
+      {
+        "material": "young spring bamboo",
+        "amount": 7
+      },
+      {
+        "material": "bamboo shoot",
+        "amount": 3
+      }
+    ],
+    "size": "N/A",
+    "source": [
+      "Balloon"
+    ],
+    "sellPrice": 4300,
+    "recipeItem": false
+  },
+  {
+    "name": "Basement flooring",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/ef/NH-Furniture-Basement_flooring.png/revision/latest?cb=20200409050131",
+    "materials": [
+      {
+        "material": "",
+        "amount": 1
+      },
+      {
+        "material": "stone",
+        "amount": 0
+      }
+    ],
+    "size": "N/A",
+    "source": [
+      "Smug island resident"
+    ],
+    "sellPrice": 1500,
+    "recipeItem": false
+  },
+  {
+    "name": "Brown herringbone wall",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/54/NH-Furniture-Brown_herringbone_wall.png/revision/latest?cb=20200409044424",
+    "materials": [
+      {
+        "material": "",
+        "amount": 1
+      },
+      {
+        "material": "softwood",
+        "amount": 5
+      }
+    ],
+    "size": "N/A",
+    "source": [
+      "Uchi island resident",
+      "Message in a bottle"
+    ],
+    "sellPrice": 1800,
+    "recipeItem": false
+  },
+  {
+    "name": "Bunny Day flooring",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/46/NH-Furniture-Bunny_Day_flooring.png/revision/latest?cb=20200402053447",
+    "materials": [
+      {
+        "material": "earth egg",
+        "amount": 2
+      },
+      {
+        "material": "stone egg",
+        "amount": 2
+      },
+      {
+        "material": "leaf egg",
+        "amount": 2
+      },
+      {
+        "material": "wood egg",
+        "amount": 2
+      },
+      {
+        "material": "sky egg",
+        "amount": 2
+      },
+      {
+        "material": "water egg",
+        "amount": 2
+      }
+    ],
+    "size": "N/A",
+    "source": [
+      "Bunny Day"
+    ],
+    "sellPrice": 4800,
+    "recipeItem": false
+  },
+  {
+    "name": "Bunny Day rug",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2c/NH-Furniture-Bunny_Day_rug.png/revision/latest?cb=20200402000308",
+    "materials": [
+      {
+        "material": "earth egg",
+        "amount": 1
+      },
+      {
+        "material": "stone egg",
+        "amount": 1
+      },
+      {
+        "material": "leaf egg",
+        "amount": 1
+      },
+      {
+        "material": "wood egg",
+        "amount": 1
+      },
+      {
+        "material": "sky egg",
+        "amount": 1
+      },
+      {
+        "material": "water egg",
+        "amount": 1
+      }
+    ],
+    "size": [
+      3.0,
+      3.0
+    ],
+    "source": [
+      "Bunny Day"
+    ],
+    "sellPrice": 2400,
+    "recipeItem": false
+  },
+  {
+    "name": "Bunny Day wall",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/84/NH-Furniture-Bunny_Day_wall.png/revision/latest?cb=20200402000316",
+    "materials": [
+      {
+        "material": "earth egg",
+        "amount": 2
+      },
+      {
+        "material": "stone egg",
+        "amount": 2
+      },
+      {
+        "material": "leaf egg",
+        "amount": 2
+      },
+      {
+        "material": "wood egg",
+        "amount": 2
+      },
+      {
+        "material": "sky egg",
+        "amount": 2
+      },
+      {
+        "material": "water egg",
+        "amount": 2
+      }
+    ],
+    "size": "N/A",
+    "source": [
+      "Bunny Day"
+    ],
+    "sellPrice": 4800,
+    "recipeItem": false
+  },
+  {
+    "name": "Cabin wall",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f7/NH-Furniture-Cabin_wall.png/revision/latest?cb=20200325181558",
+    "materials": [
+      {
+        "material": "",
+        "amount": 1
+      },
+      {
+        "material": "hardwood",
+        "amount": 5
+      }
+    ],
+    "size": "N/A",
+    "source": [
+      "Peppy island resident"
+    ],
+    "sellPrice": 1800,
+    "recipeItem": false
+  },
+  {
+    "name": "Cherry rug",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/3e/NH-Furniture-Cherry_rug.png/revision/latest?cb=20200329071017",
+    "materials": [
+      {
+        "material": "cherry",
+        "amount": 6
+      }
+    ],
+    "size": [
+      3.0,
+      3.0
+    ],
+    "source": [
+      "Peppy island resident"
+    ],
+    "sellPrice": 1200,
+    "recipeItem": false
+  },
+  {
+    "name": "Cherry wall",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b2/NH-Furniture-Cherry_wall.png/revision/latest?cb=20200329072823",
+    "materials": [
+      {
+        "material": "",
+        "amount": 2
+      },
+      {
+        "material": "cherry",
+        "amount": 0
+      }
+    ],
+    "size": "N/A",
+    "source": [
+      "Peppy island resident",
+      "Balloon"
+    ],
+    "sellPrice": 4000,
+    "recipeItem": false
+  },
+  {
+    "name": "Cherry-blossom flooring",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/57/NH-Cherry-blossom_flooring_DIY.png/revision/latest?cb=20200409051920",
+    "materials": [
+      {
+        "material": "",
+        "amount": 1
+      },
+      {
+        "material": "",
+        "amount": 2
+      },
+      {
+        "material": "clump of weeds",
+        "amount": 0
+      }
+    ],
+    "size": "N/A",
+    "source": [
+      "Balloon"
+    ],
+    "sellPrice": 4400,
+    "recipeItem": false
+  },
+  {
+    "name": "Cherry-blossom-trees wall",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/db/NH-Cherry-blossom-trees_wall_DIY.png/revision/latest?cb=20200409051928",
+    "materials": [
+      {
+        "material": "",
+        "amount": 1
+      },
+      {
+        "material": "hardwood",
+        "amount": 5
+      }
+    ],
+    "size": "N/A",
+    "source": [
+      "Balloon"
+    ],
+    "sellPrice": 4600,
+    "recipeItem": false
+  },
+  {
+    "name": "Chocolate herringbone wall",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/86/NH-Furniture-Chocolate_herringbone_wall.png/revision/latest?cb=20200409050153",
+    "materials": [
+      {
+        "material": "",
+        "amount": 1
+      },
+      {
+        "material": "softwood",
+        "amount": 5
+      }
+    ],
+    "size": "N/A",
+    "source": [
+      "Smug island resident"
+    ],
+    "sellPrice": 1800,
+    "recipeItem": false
+  },
+  {
+    "name": "Classic-library wall",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/79/NH-Furniture-Classic-library_wall.png/revision/latest?cb=20200409050159",
+    "materials": [
+      {
+        "material": "",
+        "amount": 1
+      },
+      {
+        "material": "book",
+        "amount": 0
+      }
+    ],
+    "size": "N/A",
+    "source": [
+      "Normal island resident",
+      "Message in a bottle"
+    ],
+    "sellPrice": 1450,
+    "recipeItem": false
+  },
+  {
+    "name": "Colored-leaves flooring",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/be/NH-Furniture-Colored-leaves_flooring.png/revision/latest?cb=20200409050206",
+    "materials": [
+      {
+        "material": "",
+        "amount": 1
+      },
+      {
+        "material": "",
+        "amount": 1
+      },
+      {
+        "material": "clump of weeds",
+        "amount": 5
+      }
+    ],
+    "size": "N/A",
+    "source": [],
+    "sellPrice": 4300,
+    "recipeItem": false
+  },
+  {
+    "name": "Dark bamboo rug",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c0/NH-Furniture-Dark_bamboo_rug.png/revision/latest?cb=20200329071218",
+    "materials": [
+      {
+        "material": "bamboo piece",
+        "amount": 6
+      }
+    ],
+    "size": [
+      3.0,
+      2.0
+    ],
+    "source": [
+      "Cranky island resident"
+    ],
+    "sellPrice": 960,
+    "recipeItem": false
+  },
+  {
+    "name": "Dark wooden-mosaic wall",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/02/NH-Furniture-Dark_wooden-mosaic_wall.png/revision/latest?cb=20200409050211",
+    "materials": [
+      {
+        "material": "",
+        "amount": 1
+      },
+      {
+        "material": "wood",
+        "amount": 5
+      }
+    ],
+    "size": "N/A",
+    "source": [
+      "Uchi island resident"
+    ],
+    "sellPrice": 1800,
+    "recipeItem": false
+  },
+  {
+    "name": "Forest flooring",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/03/NH-Furniture-Forest_flooring.png/revision/latest?cb=20200409050217",
+    "materials": [
+      {
+        "material": "rare mushroom",
+        "amount": 1
+      },
+      {
+        "material": "round mushroom",
+        "amount": 2
+      },
+      {
+        "material": "skinny mushroom",
+        "amount": 2
+      },
+      {
+        "material": "flat mushroom",
+        "amount": 2
+      },
+      {
+        "material": "",
+        "amount": 1
+      },
+      {
+        "material": "clump of weeds",
+        "amount": 0
+      }
+    ],
+    "size": "N/A",
+    "source": [],
+    "sellPrice": 35000,
+    "recipeItem": false
+  },
+  {
+    "name": "Forest wall",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e3/NH-Furniture-Forest_wall.png/revision/latest?cb=20200409050222",
+    "materials": [
+      {
+        "material": "elegant mushroom",
+        "amount": 2
+      },
+      {
+        "material": "round mushroom",
+        "amount": 2
+      },
+      {
+        "material": "skinny mushroom",
+        "amount": 2
+      },
+      {
+        "material": "flat mushroom",
+        "amount": 2
+      },
+      {
+        "material": "",
+        "amount": 1
+      },
+      {
+        "material": "wood",
+        "amount": 0
+      }
+    ],
+    "size": "N/A",
+    "source": [],
+    "sellPrice": 44000,
+    "recipeItem": false
+  },
+  {
+    "name": "Galaxy flooring",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e1/NH-Furniture-Galaxy_flooring.png/revision/latest?cb=20200409050226",
+    "materials": [
+      {
+        "material": "star fragment",
+        "amount": 5
+      },
+      {
+        "material": "large star fragment",
+        "amount": 1
+      }
+    ],
+    "size": "N/A",
+    "source": [
+      "Celeste"
+    ],
+    "sellPrice": 7500,
+    "recipeItem": false
+  },
+  {
+    "name": "Garbage-heap flooring",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/48/NH-Furniture-Garbage-heap_flooring.png/revision/latest?cb=20200325181813",
+    "materials": [
+      {
+        "material": "empty can",
+        "amount": 2
+      },
+      {
+        "material": "boot",
+        "amount": 2
+      },
+      {
+        "material": "old tire",
+        "amount": 2
+      }
+    ],
+    "size": "N/A",
+    "source": [
+      "Fishing up trash"
+    ],
+    "sellPrice": 120,
+    "recipeItem": false
+  },
+  {
+    "name": "Garbage-heap wall",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8e/NH-Furniture-Garbage-heap_wall.png/revision/latest?cb=20200325181819",
+    "materials": [
+      {
+        "material": "empty can",
+        "amount": 2
+      },
+      {
+        "material": "boot",
+        "amount": 2
+      },
+      {
+        "material": "old tire",
+        "amount": 2
+      }
+    ],
+    "size": "N/A",
+    "source": [
+      "Fishing up trash"
+    ],
+    "sellPrice": 120,
+    "recipeItem": false
+  },
+  {
+    "name": "Golden flooring",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/26/NH-Furniture-Golden_flooring.png/revision/latest?cb=20200409050231",
+    "materials": [
+      {
+        "material": "gold nugget",
+        "amount": 4
+      }
+    ],
+    "size": "N/A",
+    "source": [
+      "Smug island resident",
+      "Balloon"
+    ],
+    "sellPrice": 40000,
+    "recipeItem": false
+  },
+  {
+    "name": "Golden wall",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/78/NH-Furniture-Golden_wall.png/revision/latest?cb=20200409050236",
+    "materials": [
+      {
+        "material": "gold nugget",
+        "amount": 4
+      }
+    ],
+    "size": "N/A",
+    "source": [
+      "Smug island resident"
+    ],
+    "sellPrice": 40000,
+    "recipeItem": false
+  },
+  {
+    "name": "Gold-screen wall",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1f/NH-Furniture-Gold-screen_wall.png/revision/latest?cb=20200409050241",
+    "materials": [
+      {
+        "material": "gold nugget",
+        "amount": 2
+      },
+      {
+        "material": "screen wall",
+        "amount": 1
+      }
+    ],
+    "size": "N/A",
+    "source": [
+      "Smug island resident"
+    ],
+    "sellPrice": 20750,
+    "recipeItem": false
+  },
+  {
+    "name": "Honeycomb flooring",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/35/NH-Furniture-Honeycomb_flooring.png/revision/latest?cb=20200329070314",
+    "materials": [
+      {
+        "material": "wasp nest",
+        "amount": 5
+      }
+    ],
+    "size": "N/A",
+    "source": [
+      "Jock island resident"
+    ],
+    "sellPrice": 3000,
+    "recipeItem": false
+  },
+  {
+    "name": "Honeycomb wall",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2e/NH-Furniture-Honeycomb_wall.png/revision/latest?cb=20200325181847",
+    "materials": [
+      {
+        "material": "wasp nest",
+        "amount": 6
+      }
+    ],
+    "size": "N/A",
+    "source": [
+      "Jock island resident"
+    ],
+    "sellPrice": 3600,
+    "recipeItem": false
+  },
+  {
+    "name": "Ice flooring",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/15/NH-Furniture-Ice_flooring.png/revision/latest?cb=20200409050247",
+    "materials": [
+      {
+        "material": "large snowflake",
+        "amount": 1
+      },
+      {
+        "material": "snowflake",
+        "amount": 8
+      }
+    ],
+    "size": "N/A",
+    "source": [],
+    "sellPrice": 8200,
+    "recipeItem": false
+  },
+  {
+    "name": "Ice wall",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/75/NH-Furniture-Ice_wall.png/revision/latest?cb=20200409050252",
+    "materials": [
+      {
+        "material": "large snowflake",
+        "amount": 1
+      },
+      {
+        "material": "snowflake",
+        "amount": 8
+      }
+    ],
+    "size": "N/A",
+    "source": [],
+    "sellPrice": 8200,
+    "recipeItem": false
+  },
+  {
+    "name": "Iceberg flooring",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d4/NH-Furniture-Iceberg_flooring.png/revision/latest?cb=20200409050256",
+    "materials": [
+      {
+        "material": "",
+        "amount": 1
+      },
+      {
+        "material": "snowflake",
+        "amount": 0
+      }
+    ],
+    "size": "N/A",
+    "source": [],
+    "sellPrice": 4000,
+    "recipeItem": false
+  },
+  {
+    "name": "Iceberg wall",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f2/NH-Furniture-Iceberg_wall.png/revision/latest?cb=20200409050301",
+    "materials": [
+      {
+        "material": "",
+        "amount": 1
+      },
+      {
+        "material": "snowflake",
+        "amount": 0
+      }
+    ],
+    "size": "N/A",
+    "source": [],
+    "sellPrice": 4000,
+    "recipeItem": false
+  },
+  {
+    "name": "Jingle wall",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6a/NH-Furniture-Jingle_wall.png/revision/latest?cb=20200409050305",
+    "materials": [
+      {
+        "material": "red ornament",
+        "amount": 5
+      },
+      {
+        "material": "blue ornament",
+        "amount": 5
+      },
+      {
+        "material": "gold ornament",
+        "amount": 5
+      },
+      {
+        "material": "clay",
+        "amount": 5
+      }
+    ],
+    "size": "N/A",
+    "source": [],
+    "sellPrice": 2500,
+    "recipeItem": false
+  },
+  {
+    "name": "Jungle flooring",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/fe/NH-Furniture-Jungle_flooring.png/revision/latest?cb=20200409050310",
+    "materials": [
+      {
+        "material": "",
+        "amount": 1
+      },
+      {
+        "material": "",
+        "amount": 1
+      },
+      {
+        "material": "clay",
+        "amount": 0
+      }
+    ],
+    "size": "N/A",
+    "source": [
+      "Jock island residentBalloonMessage in a bottle"
+    ],
+    "sellPrice": 2200,
+    "recipeItem": false
+  },
+  {
+    "name": "Jungle wall",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/4c/NH-Furniture-Jungle_wall.png/revision/latest?cb=20200331025325",
+    "materials": [
+      {
+        "material": "",
+        "amount": 1
+      },
+      {
+        "material": "clump of weeds",
+        "amount": 5
+      },
+      {
+        "material": "wood",
+        "amount": 3
+      },
+      {
+        "material": "hardwood",
+        "amount": 3
+      },
+      {
+        "material": "softwood",
+        "amount": 3
+      }
+    ],
+    "size": "N/A",
+    "source": [
+      "Jock island resident",
+      "Balloon"
+    ],
+    "sellPrice": 1380,
+    "recipeItem": false
+  },
+  {
+    "name": "Light bamboo rug",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/bf/NH-Furniture-Light_bamboo_rug.png/revision/latest?cb=20200328032942",
+    "materials": [
+      {
+        "material": "young spring bamboo",
+        "amount": 6
+      }
+    ],
+    "size": [
+      3.0,
+      2.0
+    ],
+    "source": [
+      "Balloon"
+    ],
+    "sellPrice": 2400,
+    "recipeItem": false
+  },
+  {
+    "name": "Lunar surface",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/ab/NH-Furniture-Lunar_surface.png/revision/latest?cb=20200409050314",
+    "materials": [
+      {
+        "material": "star fragment",
+        "amount": 5
+      },
+      {
+        "material": "large star fragment",
+        "amount": 1
+      }
+    ],
+    "size": "N/A",
+    "source": [
+      "Celeste"
+    ],
+    "sellPrice": 7500,
+    "recipeItem": false
+  },
+  {
+    "name": "Manga-library wall",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/97/NH-Furniture-Manga-library_wall.png/revision/latest?cb=20200331025249",
+    "materials": [
+      {
+        "material": "",
+        "amount": 1
+      },
+      {
+        "material": "magazine",
+        "amount": 0
+      }
+    ],
+    "size": "N/A",
+    "source": [
+      "Peppy island resident",
+      "Message in a bottle"
+    ],
+    "sellPrice": 1050,
+    "recipeItem": false
+  },
+  {
+    "name": "Modern wood wall",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f1/NH-Furniture-Modern_wood_wall.png/revision/latest?cb=20200409050320",
+    "materials": [
+      {
+        "material": "wood",
+        "amount": 5
+      },
+      {
+        "material": "softwood",
+        "amount": 5
+      },
+      {
+        "material": "hardwood",
+        "amount": 5
+      }
+    ],
+    "size": "N/A",
+    "source": [
+      "Snooty island resident"
+    ],
+    "sellPrice": 1800,
+    "recipeItem": false
+  },
+  {
+    "name": "Money flooring",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/42/NH-Furniture-Money_flooring.png/revision/latest?cb=20200409050324",
+    "materials": [
+      {
+        "material": "bag of",
+        "amount": 1
+      },
+      {
+        "material": "",
+        "amount": 5
+      },
+      {
+        "material": "bells",
+        "amount": 0
+      }
+    ],
+    "size": "N/A",
+    "source": [
+      "Snooty island resident"
+    ],
+    "sellPrice": 25000,
+    "recipeItem": false
+  },
+  {
+    "name": "Mush wall",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/3b/NH-Furniture-Mush_wall.png/revision/latest?cb=20200409050330",
+    "materials": [
+      {
+        "material": "elegant mushroom",
+        "amount": 1
+      },
+      {
+        "material": "round mushroom",
+        "amount": 1
+      },
+      {
+        "material": "skinny mushroom",
+        "amount": 1
+      },
+      {
+        "material": "flat mushroom",
+        "amount": 1
+      }
+    ],
+    "size": "N/A",
+    "source": [],
+    "sellPrice": 21400,
+    "recipeItem": false
+  },
+  {
+    "name": "Orange rug",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d1/NH-Furniture-Orange_rug.png/revision/latest?cb=20200329071057",
+    "materials": [
+      {
+        "material": "orange",
+        "amount": 6
+      }
+    ],
+    "size": [
+      3.0,
+      3.0
+    ],
+    "source": [
+      "Lazy island resident"
+    ],
+    "sellPrice": 1200,
+    "recipeItem": false
+  },
+  {
+    "name": "Orange wall",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/77/NH-Furniture-Orange_wall.png/revision/latest?cb=20200329072708",
+    "materials": [
+      {
+        "material": "",
+        "amount": 2
+      },
+      {
+        "material": "orange",
+        "amount": 0
+      }
+    ],
+    "size": "N/A",
+    "source": [
+      "Lazy island resident",
+      "Message in a bottle"
+    ],
+    "sellPrice": 4000,
+    "recipeItem": false
+  },
+  {
+    "name": "Peach rug",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c2/NH-Furniture-Peach_rug.png/revision/latest?cb=20200329062724",
+    "materials": [
+      {
+        "material": "peach",
+        "amount": 6
+      }
+    ],
+    "size": [
+      3.0,
+      3.0
+    ],
+    "source": [
+      "Normal island resident"
+    ],
+    "sellPrice": 1200,
+    "recipeItem": false
+  },
+  {
+    "name": "Peach wall",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/ea/NH-Furniture-Peach_wall.png/revision/latest?cb=20200329072652",
+    "materials": [
+      {
+        "material": "",
+        "amount": 2
+      },
+      {
+        "material": "peach",
+        "amount": 0
+      }
+    ],
+    "size": "N/A",
+    "source": [
+      "Normal island resident"
+    ],
+    "sellPrice": 4000,
+    "recipeItem": false
+  },
+  {
+    "name": "Pear rug",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/77/NH-Furniture-Pear_rug.png/revision/latest?cb=20200329071134",
+    "materials": [
+      {
+        "material": "pear",
+        "amount": 6
+      }
+    ],
+    "size": [
+      3.0,
+      3.0
+    ],
+    "source": [
+      "Jock island resident"
+    ],
+    "sellPrice": 1200,
+    "recipeItem": false
+  },
+  {
+    "name": "Pear wall",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/26/NH-Furniture-Pear_wall.png/revision/latest?cb=20200329072635",
+    "materials": [
+      {
+        "material": "",
+        "amount": 2
+      },
+      {
+        "material": "pear",
+        "amount": 0
+      }
+    ],
+    "size": "N/A",
+    "source": [
+      "Jock island resident"
+    ],
+    "sellPrice": 4000,
+    "recipeItem": false
+  },
+  {
+    "name": "Rustic-stone wall",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/ca/NH-Rustic_stone_wall.png/revision/latest?cb=20200409050335",
+    "materials": [
+      {
+        "material": "stone",
+        "amount": 5
+      },
+      {
+        "material": "clay",
+        "amount": 5
+      }
+    ],
+    "size": "N/A",
+    "source": [
+      "Snooty island resident"
+    ],
+    "sellPrice": 1750,
+    "recipeItem": false
+  },
+  {
+    "name": "Sakura-wood flooring",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/09/NH-Sakura-wood_flooring_DIY.png/revision/latest?cb=20200409051345",
+    "materials": [
+      {
+        "material": "cherry-blossom petal",
+        "amount": 5
+      },
+      {
+        "material": "",
+        "amount": 1
+      },
+      {
+        "material": "wood",
+        "amount": 0
+      }
+    ],
+    "size": "N/A",
+    "source": [
+      "Balloon"
+    ],
+    "sellPrice": 3200,
+    "recipeItem": false
+  },
+  {
+    "name": "Sakura-wood wall",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6f/NH-Sakura-wood_wall_DIY.png/revision/latest?cb=20200409051351",
+    "materials": [
+      {
+        "material": "cherry-blossom petal",
+        "amount": 5
+      },
+      {
+        "material": "",
+        "amount": 1
+      },
+      {
+        "material": "wood",
+        "amount": 0
+      }
+    ],
+    "size": "N/A",
+    "source": [
+      "Balloon"
+    ],
+    "sellPrice": 3200,
+    "recipeItem": false
+  },
+  {
+    "name": "Sandy-beach flooring",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d1/NH-Furniture-Sandy-beach_flooring.png/revision/latest?cb=20200329072800",
+    "materials": [
+      {
+        "material": "sea snail",
+        "amount": 1
+      },
+      {
+        "material": "venus comb",
+        "amount": 1
+      },
+      {
+        "material": "sand dollar",
+        "amount": 1
+      },
+      {
+        "material": "coral",
+        "amount": 1
+      },
+      {
+        "material": "giant clam",
+        "amount": 1
+      },
+      {
+        "material": "cowrie",
+        "amount": 1
+      }
+    ],
+    "size": "N/A",
+    "source": [
+      "Jock island resident"
+    ],
+    "sellPrice": 4120,
+    "recipeItem": false
+  },
+  {
+    "name": "Sci-fi flooring",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/03/NH-Furniture-Sci-fi_flooring.png/revision/latest?cb=20200409050432",
+    "materials": [
+      {
+        "material": "star fragment",
+        "amount": 5
+      },
+      {
+        "material": "large star fragment",
+        "amount": 1
+      }
+    ],
+    "size": "N/A",
+    "source": [
+      "Celeste"
+    ],
+    "sellPrice": 7500,
+    "recipeItem": false
+  },
+  {
+    "name": "Sci-fi wall",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e2/NH-Furniture-Sci-fi_wall.png/revision/latest?cb=20200409050437",
+    "materials": [
+      {
+        "material": "star fragment",
+        "amount": 5
+      },
+      {
+        "material": "large star fragment",
+        "amount": 1
+      }
+    ],
+    "size": "N/A",
+    "source": [
+      "Celeste",
+      "Balloon"
+    ],
+    "sellPrice": 7500,
+    "recipeItem": false
+  },
+  {
+    "name": "Shell rug",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1f/NH-Furniture-Shell_rug.png/revision/latest?cb=20200326055931",
+    "materials": [
+      {
+        "material": "giant clam",
+        "amount": 3
+      }
+    ],
+    "size": [
+      3.0,
+      3.0
+    ],
+    "source": [
+      "Peppy island resident"
+    ],
+    "sellPrice": 5400,
+    "recipeItem": false
+  },
+  {
+    "name": "Ski-slope flooring",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/44/NH-Furniture-Ski-slope_flooring.png/revision/latest?cb=20200409050443",
+    "materials": [
+      {
+        "material": "snowflake",
+        "amount": 8
+      }
+    ],
+    "size": "N/A",
+    "source": [],
+    "sellPrice": 3200,
+    "recipeItem": false
+  },
+  {
+    "name": "Ski-slope wall",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e8/NH-Furniture-Ski-slope_wall.png/revision/latest?cb=20200409050447",
+    "materials": [
+      {
+        "material": "snowflake",
+        "amount": 8
+      }
+    ],
+    "size": "N/A",
+    "source": [],
+    "sellPrice": 3200,
+    "recipeItem": false
+  },
+  {
+    "name": "Snowflake wall",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/ab/NH-Furniture-Snowflake_wall.png/revision/latest?cb=20200409050454",
+    "materials": [
+      {
+        "material": "",
+        "amount": 1
+      },
+      {
+        "material": "snowflake",
+        "amount": 2
+      }
+    ],
+    "size": "N/A",
+    "source": [],
+    "sellPrice": 4800,
+    "recipeItem": false
+  },
+  {
+    "name": "Stacked-wood wall",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/01/NH-Furniture-Stacked-wood_wall.png/revision/latest?cb=20200409050459",
+    "materials": [
+      {
+        "material": "",
+        "amount": 1
+      },
+      {
+        "material": "hardwood",
+        "amount": 5
+      }
+    ],
+    "size": "N/A",
+    "source": [
+      "Jock island resident"
+    ],
+    "sellPrice": 1800,
+    "recipeItem": false
+  },
+  {
+    "name": "Starry wall",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/92/NH-Furniture-Starry_wall.png/revision/latest?cb=20200409050504",
+    "materials": [
+      {
+        "material": "star fragment",
+        "amount": 5
+      },
+      {
+        "material": "large star fragment",
+        "amount": 1
+      }
+    ],
+    "size": "N/A",
+    "source": [
+      "Celeste"
+    ],
+    "sellPrice": 7500,
+    "recipeItem": false
+  },
+  {
+    "name": "Starry-sands flooring",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/cb/NH-Furniture-Starry-sands_flooring.png/revision/latest?cb=20200409050510",
+    "materials": [
+      {
+        "material": "summer shell",
+        "amount": 3
+      },
+      {
+        "material": "sandy-beach flooring",
+        "amount": 1
+      }
+    ],
+    "size": "N/A",
+    "source": [
+      "Message in a bottle"
+    ],
+    "sellPrice": 7720,
+    "recipeItem": false
+  },
+  {
+    "name": "Starry-sky wall",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/fc/NH-Furniture-Starry-sky_wall.png/revision/latest?cb=20200409050520",
+    "materials": [
+      {
+        "material": "star fragment",
+        "amount": 5
+      },
+      {
+        "material": "large star fragment",
+        "amount": 1
+      }
+    ],
+    "size": "N/A",
+    "source": [
+      "Celeste"
+    ],
+    "sellPrice": 7500,
+    "recipeItem": false
+  },
+  {
+    "name": "Steel flooring",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/42/NH-Furniture-Steel_flooring.png/revision/latest?cb=20200409050726",
+    "materials": [
+      {
+        "material": "iron nugget",
+        "amount": 7
+      }
+    ],
+    "size": "N/A",
+    "source": [
+      "Smug island resident",
+      "Message in a bottle"
+    ],
+    "sellPrice": 5250,
+    "recipeItem": false
+  },
+  {
+    "name": "Steel-frame wall",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d7/NH-Furniture-Steel-frame_wall.png/revision/latest?cb=20200409050530",
+    "materials": [
+      {
+        "material": "iron nugget",
+        "amount": 8
+      }
+    ],
+    "size": "N/A",
+    "source": [
+      "Smug island resident",
+      "Message in a bottle"
+    ],
+    "sellPrice": 6000,
+    "recipeItem": false
+  },
+  {
+    "name": "Stone wall",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/79/NH-Furniture-Stone_wall.png/revision/latest?cb=20200409050536",
+    "materials": [
+      {
+        "material": "",
+        "amount": 1
+      },
+      {
+        "material": "stone",
+        "amount": 0
+      }
+    ],
+    "size": "N/A",
+    "source": [
+      "Smug island resident"
+    ],
+    "sellPrice": 1500,
+    "recipeItem": false
+  },
+  {
+    "name": "Tropical Vista",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/92/NH-Furniture-Tropical_vista.png/revision/latest?cb=20200409050543",
+    "materials": [
+      {
+        "material": "summer shell",
+        "amount": 5
+      }
+    ],
+    "size": "N/A",
+    "source": [
+      "Message in a bottle"
+    ],
+    "sellPrice": 6000,
+    "recipeItem": false
+  },
+  {
+    "name": "Underwater flooring",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/59/NH-Furniture-Underwater_flooring.png/revision/latest?cb=20200409050549",
+    "materials": [
+      {
+        "material": "summer shell",
+        "amount": 3
+      },
+      {
+        "material": "coral",
+        "amount": 3
+      }
+    ],
+    "size": "N/A",
+    "source": [
+      "Message in a bottle"
+    ],
+    "sellPrice": 6600,
+    "recipeItem": false
+  },
+  {
+    "name": "Underwater wall",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/44/NH-Furniture-Underwater_wall.png/revision/latest?cb=20200409050604",
+    "materials": [
+      {
+        "material": "summer shell",
+        "amount": 3
+      },
+      {
+        "material": "coral",
+        "amount": 5
+      }
+    ],
+    "size": "N/A",
+    "source": [
+      "Message in a bottle"
+    ],
+    "sellPrice": 8600,
+    "recipeItem": false
+  },
+  {
+    "name": "Water flooring",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/ae/NH-Furniture-Water_flooring.png/revision/latest?cb=20200409050555",
+    "materials": [
+      {
+        "material": "summer shell",
+        "amount": 6
+      }
+    ],
+    "size": "N/A",
+    "source": [
+      "Balloon"
+    ],
+    "sellPrice": 7200,
+    "recipeItem": false
+  },
+  {
+    "name": "Wild-wood wall",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d3/NH-Furniture-Wild-wood_wall.png/revision/latest?cb=20200409050612",
+    "materials": [
+      {
+        "material": "",
+        "amount": 1
+      },
+      {
+        "material": "wood",
+        "amount": 5
+      }
+    ],
+    "size": "N/A",
+    "source": [
+      "Cranky island resident"
+    ],
+    "sellPrice": 1800,
+    "recipeItem": false
+  },
+  {
+    "name": "Wooden-knot wall",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/ec/NH-Furniture-Wooden-knot_wall.png/revision/latest?cb=20200409050618",
+    "materials": [
+      {
+        "material": "",
+        "amount": 1
+      },
+      {
+        "material": "hardwood",
+        "amount": 5
+      }
+    ],
+    "size": "N/A",
+    "source": [
+      "Smug island resident",
+      "Message in a bottle"
+    ],
+    "sellPrice": 1800,
+    "recipeItem": false
+  },
+  {
+    "name": "Wooden-mosaic wall",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/52/NH-Wooden-mosiac_wall.png/revision/latest?cb=20200409050623",
+    "materials": [
+      {
+        "material": "",
+        "amount": 1
+      },
+      {
+        "material": "wood",
+        "amount": 5
+      }
+    ],
+    "size": "N/A",
+    "source": [
+      "Normal island residentMessage in a bottle"
+    ],
+    "sellPrice": 1800,
+    "recipeItem": false
+  },
+  {
+    "name": "Woodland wall",
+    "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8e/NH-Furniture-Woodland_wall.png/revision/latest?cb=20200409044819",
+    "materials": [
+      {
+        "material": "",
+        "amount": 1
+      },
+      {
+        "material": "clump of weeds",
+        "amount": 5
+      },
+      {
+        "material": "softwood",
+        "amount": 9
+      }
+    ],
+    "size": "N/A",
+    "source": [
+      "Normal island resident"
+    ],
+    "sellPrice": 1380,
+    "recipeItem": false
+  }
+]
