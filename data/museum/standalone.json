@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Acanthostega",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/cc/NH-Furniture-acanthostega.png/revision/latest?cb=20200404013825",
+        "price": 2000
+    },
+    {
+        "name": "Amber",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/32/NH-Furniture-amber.png/revision/latest?cb=20200404013825",
+        "price": 1200
+    },
+    {
+        "name": "Ammonite",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/32/NH-Furniture-ammonite.png/revision/latest?cb=20200404013825",
+        "price": 1100
+    },
+    {
+        "name": "Anomalocaris",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2e/NH-Furniture-anomalocaris.png/revision/latest?cb=20200404013826",
+        "price": 2000
+    },
+    {
+        "name": "Archaeopteryx",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/99/NH-Furniture-archaeopteryx.png/revision/latest?cb=20200404013826",
+        "price": 1300
+    },
+    {
+        "name": "Australopith",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b0/NH-Furniture-australopith.png/revision/latest?cb=20200404013826",
+        "price": 1100
+    },
+    {
+        "name": "Coprolite",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/04/NH-Furniture-coprolite.png/revision/latest?cb=20200404013826",
+        "price": 1100
+    },
+    {
+        "name": "Dinosaur track",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a5/NH-Furniture-dinosaurtrack.png/revision/latest?cb=20200404013826",
+        "price": 1000
+    },
+    {
+        "name": "Dunkleosteus",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0c/NH-Furniture-dunkleosteus.png/revision/latest?cb=20200404013826",
+        "price": 3500
+    },
+    {
+        "name": "Eusthenopteron",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8c/NH-Furniture-eusthenopteron.png/revision/latest?cb=20200404013826",
+        "price": 2000
+    },
+    {
+        "name": "Juramaia",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/73/NH-Furniture-juramaia.png/revision/latest?cb=20200404013826",
+        "price": 1000
+    },
+    {
+        "name": "Myllokunmingia",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/fb/NH-Furniture-myllokunmingia.png/revision/latest?cb=20200404013826",
+        "price": 1500
+    },
+    {
+        "name": "Shark-tooth pattern",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/44/NH-Furniture-sharktoothpattern.png/revision/latest?cb=20200404013826",
+        "price": 1000
+    },
+    {
+        "name": "Trilobite",
+        "imageLink": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/42/NH-Furniture-trilobite.png/revision/latest?cb=20200404013827",
+        "price": 1300
+    }
+]
