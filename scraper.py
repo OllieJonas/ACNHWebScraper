@@ -7,6 +7,7 @@ import os
 def make_dirs():
     print(os.getcwd())
     try:
+        os.mkdir("data")
         os.mkdir("data/diy")
         os.mkdir("data/furniture")
         os.mkdir("data/museum")
@@ -39,11 +40,11 @@ if __name__ == "__main__":
     util.dump(furniture.scrape("flooring"), "furniture/flooring.json")
     util.dump(furniture.scrape("rugs"), "furniture/rugs.json")
     
-    util.dump(diy.scrape("tools"), "diy/housewares.json")
-    util.dump(diy.scrape("housewares"), "diy/misc.json")
-    util.dump(diy.scrape("misc"), "diy/wallmounted.json")
-    util.dump(diy.scrape("equipment"), "diy/wallpaper.json")
-    util.dump(diy.scrape("other"), "diy/flooring.json")
-    util.dump(diy.scrape("wallmounted"), "diy/rugs.json")
-    util.dump(diy.scrape("wallpaper_rugs_flooring", "diy/wallpaper.json"))
+    util.dump(diy.scrape("tools"), "diy/tools.json")
+    util.dump(diy.scrape("housewares"), "diy/housewares.json")
+    util.dump(diy.scrape("misc"), "diy/misc.json")
+    util.dump(diy.scrape("equipment"), "diy/equipment.json")
+    util.dump(diy.scrape("other"), "diy/other.json")
+    util.dump(diy.scrape("wallmounted"), "diy/wallmounted.json")
+    util.dump(diy.scrape("wallpaper_rugs_flooring"), "diy/wallpaper.json")
 

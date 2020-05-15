@@ -5,7 +5,6 @@ import schemas
 
 def scrape():
     print("Performing bug scrape...")
-
     csv, urls = Scraper.parse_museum("https://animalcrossing.fandom.com/wiki/Bugs_(New_Horizons)", True)
 
     count = 0

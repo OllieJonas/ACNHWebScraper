@@ -16,7 +16,49 @@ urls = {
 
 
 def scrape(key):
+    if key == "other":
+        return other_scrape()
+    else:
+        return do_scrape(key)
+
+
+def other_scrape():
+    response = requests.get(urls.get("other"))
+    rep_text = response.text
+    soup = BeautifulSoup(rep_text, 'html.parser')
+    table = soup.find_all("table")
+
+    items = []
+
+    for entry in table[2].find_all("tr")[1:]:
+        children = entry.find_all("td")
+        name = strip(children[0].text.replace("x10", ""))
+
+        image_link = "Unknown"
+
+        if children[1].a:
+            image_link = children[1].a['href']
+
+        materials = materials_from_str(children[2].text)
+        size = size_from_url(children[3].a['href'])
+        source = strip(children[4].text).replace(" )", " miles)")
+        sell_price = strip_bells(children[5].text)
+
+        item = {
+            "name": name,
+            "imageLink": image_link,
+            "materials": materials,
+            "size": size,
+            "source": source,
+            "sellPrice": sell_price
+        }
+        items.append(item)
+    return items
+
+
+def do_scrape(key):
     print("Performing " + key + " scrape...")
+
     response = requests.get(urls.get(key))
     rep_text = response.text
     response.close()
@@ -32,13 +74,18 @@ def scrape(key):
         name = strip(children[0].text)
         image_link = children[1].a['href']
         materials = materials_from_str(strip(children[2].text))
-        size = size_from_url(children[3].a['href'])
+
+        size = "N/A"
+
+        if children[3].a:
+            size = size_from_url(children[3].a['href'])
+
         source = [x for x in children[4].text.split("\n") if len(x) > 0]
         price = strip_bells(children[5].text)
 
         recipe_item = False
 
-        if children[6]:
+        if len(children) > 6:
             recipe_item = is_recipe_item(children[6].text)
 
         item = {
@@ -56,7 +103,7 @@ def scrape(key):
 
 
 def strip_bells(text):
-    return int(re.sub("[,\"]|[Bells][(each)]", "", text))
+    return int(re.sub("[\n,\"]|[Bells][(each)]|[(ch)]", "", text.strip()))
 
 
 def is_recipe_item(text):
@@ -69,7 +116,7 @@ def materials_from_str(string):
     results = []
     for char in string.replace("x", ""):
         if char.isnumeric():
-            if len(curr_built) > 0:
+            if curr_amt > 0:
                 results.append({
                     "material": ''.join(map(str, curr_built)).strip(),
                     "amount": curr_amt
