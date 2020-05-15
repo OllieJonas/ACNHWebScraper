@@ -1,11 +1,10 @@
 import schemas
 import util
-from scrapers import Scraper
 
 
 def scrape():
     print("Performing fish scrape...")
-    csv, urls = Scraper.parse_museum("https://animalcrossing.fandom.com/wiki/Fish_(New_Horizons)", False)
+    csv, urls = util.parse_museum("https://animalcrossing.fandom.com/wiki/Fish_(New_Horizons)", False)
     count = 0
     items = []
     for entry in csv:

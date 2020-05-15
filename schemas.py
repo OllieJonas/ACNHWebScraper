@@ -74,22 +74,58 @@ def furniture_rug(name, image_link, buy_price, sell_price, source, size):
 
 def furniture_house(name, image_link, buy_price, sell_price, source):
     return {
-                "name": name,
-                "imageLink": image_link,
-                "buyPrice": buy_price,
-                "sellPrice": sell_price,
-                "source": source
-            }
+        "name": name,
+        "imageLink": image_link,
+        "buyPrice": buy_price,
+        "sellPrice": sell_price,
+        "source": source
+    }
 
 
 def furniture_detailed(name, image_link, buy_price, sell_price, source, variations, customize, size):
     return {
-                "name": name,
-                "imageLink": image_link,
-                "buy_price": buy_price,
-                "sell_price": sell_price,
-                "source": source,
-                "variations": variations,
-                "customization": customize,
-                "size": size
-            }
+        "name": name,
+        "imageLink": image_link,
+        "buy_price": buy_price,
+        "sell_price": sell_price,
+        "source": source,
+        "variations": variations,
+        "customization": customize,
+        "size": size
+    }
+
+
+def diy_other(name, image_link, materials, size, source, sell_price):
+    return {
+        "name": name,
+        "imageLink": image_link,
+        "materials": materials,
+        "size": size,
+        "source": source,
+        "sellPrice": sell_price
+    }
+
+
+def diy_tools(name, tool_type, image_link, materials, size, source, sell_price, recipe_item):
+    return {
+        "name": name,
+        "type": tool_type,
+        "imageLink": image_link,
+        "materials": materials,
+        "size": size,
+        "source": source,
+        "sellPrice": sell_price,
+        "recipeItem": recipe_item
+    }
+
+
+def diy_everything_else(name, image_link, materials, size, source, sell_price, recipe_item):
+    return {
+        "name": name,
+        "imageLink": image_link,
+        "materials": materials,
+        "size": size,
+        "source": source,
+        "sellPrice": sell_price,
+        "recipeItem": recipe_item
+    }

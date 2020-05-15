@@ -16,6 +16,7 @@ urls = {
 
 
 def scrape(key):
+    print("Performing " + key + " (DIY) scrape...")
     if key == "other":
         return other_scrape()
     else:
@@ -44,21 +45,13 @@ def other_scrape():
         source = strip(children[4].text).replace(" )", " miles)")
         sell_price = strip_bells(children[5].text)
 
-        item = {
-            "name": name,
-            "imageLink": image_link,
-            "materials": materials,
-            "size": size,
-            "source": source,
-            "sellPrice": sell_price
-        }
+        item = schemas.diy_other(name, image_link, materials, size, source, sell_price)
         items.append(item)
+
     return items
 
 
 def do_scrape(key):
-    print("Performing " + key + " scrape...")
-
     response = requests.get(urls.get(key))
     rep_text = response.text
     response.close()
@@ -80,24 +73,29 @@ def do_scrape(key):
         if children[3].a:
             size = size_from_url(children[3].a['href'])
 
-        source = [x for x in children[4].text.split("\n") if len(x) > 0]
-        price = strip_bells(children[5].text)
+        source = [x.strip() for x in children[4].text.split("\n") if len(x) > 0]
+        sell_price = strip_bells(children[5].text)
 
         recipe_item = False
 
         if len(children) > 6:
             recipe_item = is_recipe_item(children[6].text)
 
-        item = {
-            "name": name,
-            "type": tool_type_from_name(name),
-            "imageLink": image_link,
-            "materials": materials,
-            "size": size,
-            "source": source,
-            "sellPrice": price,
-            "recipeItem": recipe_item
-        }
+        if key == "tools":
+            tool_type = tool_type_from_name(name)
+            item = schemas.diy_tools(
+                name,
+                tool_type,
+                image_link,
+                materials,
+                size,
+                source,
+                sell_price,
+                recipe_item
+            )
+        else:
+            item = schemas.diy_everything_else(name, image_link, materials, size, source, sell_price, recipe_item)
+
         items.append(item)
     return items
 

@@ -5,12 +5,11 @@ from bs4 import BeautifulSoup
 
 import schemas
 import util
-from scrapers import Scraper
 
 
 def scrape_standalone():
     print("Performing standalone fossil scrape...")
-    csv, urls = Scraper.parse_museum("https://animalcrossing.fandom.com/wiki/Fossils_(New_Horizons)", False)
+    csv, urls = util.parse_museum("https://animalcrossing.fandom.com/wiki/Fossils_(New_Horizons)", False)
     items = []
     count = 0
     for item in csv:

@@ -16,7 +16,7 @@ URLS = {
 
 
 def scrape(key):
-    print("Performing furniture_" + key + " scrape...")
+    print("Performing " + key + " (Furniture) scrape...")
     if key in ["housewares", "miscellaneous", "wallmounted", "misc"]:
         return detailed_scrape(URLS.get(key))
     elif key in ["wallpaper", "flooring"]:

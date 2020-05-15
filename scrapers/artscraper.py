@@ -10,7 +10,7 @@ SCULPTURE = 1
 
 # 0 = Painting, 1 = Sculpture
 def scrape(index):
-    print("Performing Art Scrape for " + str(index) + "...")
+    print("Performing art scrape for " + str(index) + "...")
     url = "https://animalcrossing.fandom.com/wiki/Art_(New_Horizons)"
     response = requests.get(url)
     rep_text = response.text

@@ -1,11 +1,10 @@
 from scrapers import artscraper as art, bugscraper as bug, fishscraper as fish, fossilscraper as fossil, \
-    villagerscraper as villager, furniturescraper as furniture, diyscraper as diy
+     villagerscraper as villager, furniturescraper as furniture, diyscraper as diy
 import util
 import os
 
 
 def make_dirs():
-    print(os.getcwd())
     try:
         os.mkdir("data")
         os.mkdir("data/diy")
@@ -39,7 +38,8 @@ if __name__ == "__main__":
     util.dump(furniture.scrape("wallpaper"), "furniture/wallpaper.json")
     util.dump(furniture.scrape("flooring"), "furniture/flooring.json")
     util.dump(furniture.scrape("rugs"), "furniture/rugs.json")
-    
+
+    # DIY
     util.dump(diy.scrape("tools"), "diy/tools.json")
     util.dump(diy.scrape("housewares"), "diy/housewares.json")
     util.dump(diy.scrape("misc"), "diy/misc.json")
